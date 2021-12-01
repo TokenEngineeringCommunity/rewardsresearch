@@ -1,0 +1,1181 @@
+﻿Project Name,Proposal State,Round,Grant Category,Earmarks,Deliverable Checklist,Proposal Standing,OCEAN Requested,OCEAN Granted,Wallet Address,Vote URL,ipfsHash,Snapshot Batch Index,Snapshot Batch Index No,Voted Yes,Voted No
+Decentralized File Rating,Funded,1,Build & Integrate,General,,Unreported,,13000,0x31A7f70b8812daEf0A6C7F19575DB09f726F0DD1,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,7,,116244,0
+Ocean Pool Alerts,Funded,1,Build & Integrate,General,,Unreported,,13000,0x5281aD053cC8906d08E9520318A76db767CEeB4b,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,8,,121130,0
+Ocean Surfer,Funded,1,Build & Integrate,General,,Unreported,,13000,0x821A4dF7E0e6F47038E8D263DcAB539992Df1c21,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,6,,132330,0
+Data Whale,Funded,1,Build & Integrate,General,"[x] [X] The ALGA. application (beta) went live on the Apple App Store and Google Playstore
+1. https://apps.apple.com/us/app/alga/id1563145038#?platform=iphone
+2. https://play.google.com/store/apps/details?id=com.saadyousaf1997.Algas
+[x] [X] Medium Article about ALGAs vision was published.
+1. https://joyful-tango-mule-62.medium.com/alga-381308075ddc
+",Completed,,13000,0x5D2B315C465e133a346C960F46f5AA1ED88a3179,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,5,,148269,0
+Ocean Academy,Funded,1,Outreach,General,,Unreported,,13000,0x5cFDBd9150596b790AAe28e003EFfac9f29081F9,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,3,,2642655,0
+Operation Plankton,Not Granted,1,Outreach,General,,,,,0x01e66950353400E93AEe7F041C0303103E2ef5Ab,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,4,,47608,0
+Resilient ML,Not Granted,1,Build & Integrate,General,,,,,0x4D4290CBA904aBb4dFbc1568766bCD88e67Be391,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,9,,17939,0
+APY.vision,Not Granted,1,Build & Integrate,General,,,,,0x891181a601412593d686439116b32a468441757f,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,2,,8862,0
+Wisdom Of the Web,Not Granted,1,Build & Integrate,General,,,,,0xF40b005FFE2Db0197b8c301e1C966C2cb3B59A08,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,QmPLfq9J2Mr4FDAWpYaBq2veYJpiKVgU6JkXYUvV8qa2FC,1,,22695,0
+Liquidity Pool Handling,Funded,2,Build & Integrate,General,"[x] [ ] Dissolve a liquidity pool and send back fair shares to the people that are in it by assessing the amount of tokens/liquidity pool shares that the participants own and then splitting up the Ocean in the pool accordingly and sending them to them. This will cost the dissolver ETH and possibly some of their own tokens.
+This is impossible as dissolving a liquidity pool is impossible in the current configuration of the liquidity pools. The marketplace sets max tokens to minted tokens so minting more tokens is impossible. The assumption that was made for this is not possible - Trent also did not know about this as stated in the above YouTube video.
+[x] [ ] Rebalance a liquidity pool by minting new tokens and sending them to the liquidity pool as well as the token holders. This will also cost the invoker ETH to do the transactions. But this could then be used by e.g. the Swash pool or old pools to fix their token : Ocean ratio.
+Minting new tokens is impossible for pools created on the Ocean marketplace, therefore this cannot be done.
+[x] [ ] Airdropping an amount tokens of a new pool to pool and token holders of a new pool. This is helpful to reward participants/contributors in a dataset when an algorithm is created out of that data.",Funds Returned,,10000,0x655efe6eb2021b8cefe22794d90293aec37bb325,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,9,,104460,0
+Data Whale,Funded,2,Build & Integrate,General,"[x] [X] The ALGA. application (beta) went live on the Apple App Store and Google Playstore
+1. https://apps.apple.com/us/app/alga/id1563145038#?platform=iphone
+2. https://play.google.com/store/apps/details?id=com.saadyousaf1997.Algas
+[x] [X] We are on track and aim to complete ALGAs Phase 2. However, we underestimated the challenges and budget requirements when starting our research & development to finalize this task.
+1. We faced a delay when trying to find a solution to integrate OCEAN.js, WalletConnect or MetaMask to our existing App’s React Native Code. ALGAs current code-base is not compatible and there are major changes required.
+2. After failing with our current developers, we aimed to solve this collaboratively by actively looking for support in the community, OCEAN developer channels and initiatives such as the Crowdcast Workshop (https://www.crowdcast.io/e/moonbuilders-ws/5).
+3. To reach our goal, we have decided to hand over our code in August to a professional blockchain developer with vast experience in React Native. The proposed changes to our code, estimated timeline and technicals will be outlined in a detailed document that can be viewed below. The document is a work in progress and will be updated accordingly: https://bit.ly/3yPZQRc",Completed,,10000,0x5D2B315C465e133a346C960F46f5AA1ED88a3179,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,16,,123725,0
+Ocean Academy,Funded,2,Outreach,General,,Unreported,,10000,0x5cFDBd9150596b790AAe28e003EFfac9f29081F9,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,12,,120609,0
+Clean Docs,Funded,2,Core Software,General,"[x] [x] Create Py module makdowns from sourcecode (ocean.py, Aquarius, Provider)
+- https://docs.oceanprotocol.com/references/read-the-docs/ocean-py/
+- https://github.com/oceanprotocol/readthedocs
+[x] [x] Regular doc maintenance",Completed,,10000,0x1491e29aDc7a1aa6F8a7e6da5aC0D77BcD7D859E,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,13,,138823,0
+RugPullIndex,Funded,2,Build & Integrate,General,"[x] [THIS IS ONGOING FOR RPI LIFETIME] Improve the rating algorithm’s resilience towards Sybil-resistance. We plan to replace the “OCEAN-staked” metric with an “OCEAN-days destroyed” metric. Details here.
+[x] [x; ERIGON NODE] Increase the frequency of data pool retrievals (price, liquidity, etc.) daily, e.g., hourly.
+- Update: We’ve been working towards this issue since a while now but we haven’t managed to prioritize it. It’d say now that we have the Erigon node and since we’ve separated the crawler into its own NPM package; we’re now closer than ever to implement this change. We can now make almost infinite API calls as we’re hosting our own node. And we’ve prepared the queries and the database to make a surgical change in an upcoming proposal. However, the budget in R2 has long been spent and so we’ll have to raise more to finish this.
+[x] [x] Maintain and foster the website such that it stays performant and easy to use.
+[x] [x] Document the inner workings of the algorithm publicly to improve transparency.
+[x] [x] Work towards introducing an ERC20 token to allow direct investing in the index.
+[x] [x] We plan to show the users a time-dependent graph of the index’s performance (our inspiration ). For that, we cleaned our database.
+[x] [x] We improved the index by quoting EUR values (instead of OCEAN).
+[x] [x] We improved the site’s SEO performance.
+[x] [x] We improved the crawler’s stability.
+[x] [x] We’ve evaluated the project’s thesis by analyzing the fall of ADASTA-60.
+[x] [x] Our web visitors have increased from 254 visitors in January to 413 visitors in February.
+[x] [x] I’ve started to work on a protocol that may become useful later called the Simple Signal Replication Protocol .
+[x] [x] I’ve started to conceptualize a proposal to scale Ethereum on-chain data
+",Completed,,10000,0xbD85278343Fa47D599f42548D85084f57f6CB41d,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,15,,63078,0
+VideoWiki,Funded,2,Build & Integrate,General,"Round 2 project Status: Funded - Content Creation integration and customization to the marketplace. Onboarding the data in video format to ocean marketplace.
+[x] Status - Completed. Live at Video.Wiki (Premium domain purchased and project rebranded)
+All mentioned milestones were achieved and project is successfully running",Completed,,10000,0x42a19cd756651A488f1899157c45Af929bf3695F,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,11,,156431,0
+Governor DAO,Funded,2,Unleash Data,General,,Unreported,,10000,0x37A6156e4a6E8B60b2415AF040546cF5e91699bd,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,1,,49676,0
+German AI/ML,Funded,2,Outreach,General,"[x] [X] Ocean Protocol has been introduced to the German AI Association and other influencial Actors in Germany, such as eco, BVDW, VDI, Gaia-X, etc.
+[x] [X] Assistance and Workshops have been provided for all of those who wanted to know more about Ocean Protocol and the Ocean Marketplace
+[x] [X] The proposal of a partnership has been made and discussed, but both parties did not agree on the final terms and postponed this to a later stage of maturity of the market. This is a proposal for the long run and some parts of Ocean Market that are necessary for a German Data & AI portal are still missing. Instead of rushing this we pivoted to bringing Ocean Protocol to the Gaia-X Core where it now can be found in the Architecture Document and Minimal Viable Gaia-X https://www.gaia-x.eu/publications
+[x] [X] Various participants of our sessions and workshops took part in the Ocean Academy and got involved in Ocean Protocol
+[x] [X] Feedback has been reported back to the community and various change requests have been made on GitHub and in internal discussions with the Academy and OPF",Completed,,10000,0x01e66950353400E93AEe7F041C0303103E2ef5Ab,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,4,,100639,0
+Research Data Economy,Funded,2,Outreach,General,"[x] [X] A public pitch deck has been released to the Ocean community as basis for further building and outreach: https://docs.google.com/presentation/d/1ZS_s8EcNmsSEh2IAb_uIT7iXglp97buhUYQcnAqHwHw/edit?usp=sharing
+[x] [X] We made contact with ZBW - Leibniz Information Centre for Economics, IfW - Kiel Institute for the World Economy, ZEW - Centre for European Economic Research, VDI/VDE, TU Munich, IDSA - International Data Space Association, Fraunhofer, European Open Science Cloud (EOSC), Gaia-X AISBL, European Commission, Kiel University and the Kiel University of Applied Sciences and Bertelsmann Foundation
+[x] [X] The knowledge for the article has been summarized in the latest Use Case documents https://github.com/deltaDAO/Ocean-Protocol-Use-Cases, open pitch deck https://docs.google.com/presentation/d/1ZS_s8EcNmsSEh2IAb_uIT7iXglp97buhUYQcnAqHwHw/edit?usp=sharing and the presentations for the Working Group Data Economy
+[x] [] A research project has not been started due to two main reasons. No research grant and free personnel has been available at the most interested research institutions so far and in addition to that the technology has not been perceived as mature enough / the market as not big enough. This will change with the upcoming Gaia-X initiative.
+[x] [] Same as above. We were a bit too early.
+[x] [X] This is currently being achieved as part of deltaDAOs work and our working students
+",Completed,,10000,0x01e66950353400E93AEe7F041C0303103E2ef5Ab,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,14,,254902,0
+Data DAO,Not Granted,2,Build & Integrate,General,,,,,0xd69485360F89e824935097Dd594a2b72CD4aDDD8,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,7,,15000,0
+Moon Jelly,Not Granted,2,Build & Integrate,General,,,,,0xF8dac7973f0F444E19bf671915187A0A92f18313,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,6,,8000,0
+Ocean x DeFi,Not Granted,2,Outreach,General,,,,,0x5f532e354a72ee73778f03e16823a2c2e2fb312b,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,5,,0,0
+Project Coral,Not Granted,2,Outreach,General,,,,,0x65f4424cea0593c53fe4e34d55455238bd058a6c,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,2,,32488,0
+Resilient ML,Not Granted,2,Unleash Data,General,,,,,0x4D4290CBA904aBb4dFbc1568766bCD88e67Be391,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,3,,11078,0
+Analytics Translation,Not Granted,2,Outreach,General,,,,,0xa90aa0057f42a6d4456ecdd177e8a4ead3b1ab28,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,10,,0,0
+Buidl Ocean,Not Granted,2,Outreach,General,,,,,0x8929cF80A1C2D7870cB8834cc72E00284925BD84,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,QmVtJoo7hp3G5RXAVu9EjHT38Uknipqs7a78P7o8viLQtm,8,,16739,0
+DataUnion Foundation,Funded,3,Unleash Data,General,[x] [X] Upload Challenge available - see https://alpha.dataunion.app,Completed,,10000,0x655efe6eb2021b8cefe22794d90293aec37bb325,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,5,,740139,0
+Data Whale,Funded,3,Unleash Data,General,"[x] [X] Our Website, Tokenization Pitch, Business Plan and Research Paper have been re-designed and updated.
+https://datawhale.online
+https://www.datawhale.online/learn (all other documents)
+[x] [X] We have acquired and held around 15-20 introductory meetings with potential corporate data-partners, all of which have signaled their interest but did not move forward with tokenization so far. We have also arranged an introductory meeting between Bruce Pon and a high-level government entity.
+[x] [X] We have continued to create value with the help of our Data Token Liquidity Pools. A brief snapshot of our LP numbers can be found below.
+
+Screen Shot 2021-08-12 at 3.30.56 PM
+453×561 11 KB
+
+[x] [X] We have hired legal representation to finalize our legal documentation. The documents, including , Terms of Service and Privacy Policy for third-party providers within the Ocean Market eco-system are open-source and can be viewed below. We will also launch our revised tokenization agreement and judicial analysis here: https://datawhale.online/learn and https://www.datawhale.online/terms-conditions
+Privacy Policy for Data Token dApp Providers:
+https://docs.google.com/document/d/1bkdTIH21gwVFSXKl8OwV3tYU8SmZiMV1/edit?usp=sharing&ouid=102208446087639641051&rtpof=true&sd=true
+Terms of Service for Data Token dApp Providers:
+https://docs.google.com/document/d/1KRSAtBDt7FHJ2JoXEgma_fSTNi1Yjmt5/edit?usp=sharing&ouid=102208446087639641051&rtpof=true&sd=true",Completed,,10000,0x5D2B315C465e133a346C960F46f5AA1ED88a3179,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,20,,331082,0
+RugPullIndex,Funded,3,Build & Integrate,General,"[x] [x] We’ll again convert them to USDC upon arrival to minimize our exposure risk to OCEAN and maximize our length of operation.
+[x] [x] We want to finish adding a graph to the website that shows the index’ historical performance
+[x] [x] We want to continue nurturing the project
+[x] [x] We gave an interview to datapeek.org about our origin story.
+[x] [x] We improved the look and feel of the front page.
+[x] [x] We shipped the index’s performance graph (check our front page too).
+[x] [x] We integrated with a CDN for performant global content delivery.
+[x] [x] We improved the crawler’s reliability.
+[x] [x] We’ve had 450 visitors to the website in March 2021 (similar to last month). However, our users now spend 30 seconds more to compare data sets than last month.
+",Completed,,10000,0xbD85278343Fa47D599f42548D85084f57f6CB41d,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,19,,233543,0
+PoolGov,Funded,3,Build & Integrate,General,,Unreported,,10000,0xf84a022c73F3547932bdb3Cf4a356315fDc76748,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,1,,312092,0
+Degen Triggers,Funded,3,Build & Integrate,General,,Unreported,,10000,0xf773829a6cFF2a51B8fC4E0D146faE34182bf119,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,3,,181529,0
+Ocean Dashboard,Funded,3,Build & Integrate,General,,Unreported,,10000,0x97072299584503B7F9ae9A48CbcD30C0Ae2274A2,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,7,,133372,0
+Votes4LPs,Funded,3,Build & Integrate,General,"[x] [x] Voting for the Ocean marketplace
+[ ] [ ] Other voting",Funds Returned,,10000,0x655efe6eb2021b8cefe22794d90293aec37bb325,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,13,,157769,0
+Dounty,Funded,3,Build & Integrate,General,,Unreported,,10000,0x5acE9C30085572c0E01aE56922Ef61A4F894abd8,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,18,,115350,0
+Pool Screener,Funded,3,Build & Integrate,General,,Unreported,,10000,0xC767B8d677bEB0A91bB511f20D533cA7Dd524494,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,4,,126385,0
+Ocean Academy,Funded,3,Outreach,General,,Unreported,,10000,0x5cFDBd9150596b790AAe28e003EFfac9f29081F9,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,8,,264733,0
+German AI/ML,Funded,3,Outreach,General,"[x] [X] Ocean Protocol has been introduced to the German AI Association and other actors in Germany, such as eco, BVDW, VDI, Gaia-X, etc.
+[x] [X] An official open Working Group “Data Economy” has been established and a public panel session feat. Bruce Pon has been held be the German AI Association. The working group is still up and running and meeting on a weekly basis each Thursday.
+[x] [X] The proposal of a partnership has been made and discussed, but both parties did not agree on the final terms and postponed this to a later stage of maturity of the market. This is a proposal for the long run and some parts of Ocean Market that are necessary for a German Data & AI portal are still missing. Instead of rushing this we pivoted to bringing Ocean Protocol to the Gaia-X Core where it now can be found in the Architecture Document and Minimal Viable Gaia-X https://www.gaia-x.eu/publications
+[x] [X] Various participants of our sessions and workshops took part in the Ocean Academy and got involved in Ocean Protocol
+[x] [X] Feedback has been reported back to the community and various change requests have been made on GitHub and in internal discussions with the Academy and OPF
+",Completed,,10000,0x01e66950353400E93AEe7F041C0303103E2ef5Ab,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,11,,138709,0
+Project Coral,Funded,3,Outreach,General,"[x] [x] Conference Workshops & Seminars
+Our team has presented at multiple conferences and hackathons, including the International Neuroinformatics Coordinating Facility Conference and the Organization for Human Brain Mapping.
+As part of this, we have conducted user research on token economies and the pain points for researchers working with cloud computing workflows. This information will help us perform user requirement design as we finalise our architecture for an application to support Decentralised Scientific Workflows.
+[x] [x] Training & Development
+The OceanDAO grant enabled us as a team to take part in Kernel Block III.
+Below are the deliverables for training and development:
+- Opscientia were chosen as one of the top projects to present in the Final Showcase.
+- We have also summarised our incredible experience in a blog.
+[x] [x] Google Summer of Code Project
+The OceanDAO grant directly supported mentorship for Google Summer of Code to work on open-source projects at the intersection of Open Science and Web 3.0.
+Below are the deliverables for the GSoC Project:
+- Kinshuk’s original GSoC project proposal for Decentralised storage of versioned BIDS datasets with IPFS, datalad and Ceramic
+- The blog post outlining Kinshuk’s work this summer with Opscientia and his work for GSoC - DAO Community Spotlight: Kinshuk Kashyap - Decentralized storage of versioned BIDS datasets with IPFS, datalad and Ceramic
+- Achintya’s original GSoC project proposal for Securing BIDS Neuroimaging Datasets Stored on Decentralized File Sharing Networks with Self-Sovereign DIDs and IPFS
+- The blog post outlining Achintya’s work this summer with Opscientia and his work as Opscientia’s first Open Web Fellow (made possible by OceanDAO) - Opscientia Community Spotlight: Opscientia Open Web Fellowship
+[x] [x] Hackathon Spree
+OceanDAO has helped us take part in multiple hackathons over the summer and this has resulted in Opscientia being rewarded for our work and helping spotlight the importance of open science to the wider Web3 and scientific communities.
+- The team took part in the ETHGlobal Web3Weekend hackathon to build a proof-of-concept of our Data Wallet. The next steps include building out the minimum viable product for scientists to use and test by the end of 2021.
+- Our blog post outlining our experience at the ETHGlobal Web3Weekend hackathon - Opscientia DAO Wins Multiple Awards at the EthGlobal Hackathon
+- The team also took part in the OHBM Brainhack 2021. Our GitHub issue explains our submission in greater detail
+- We gathered user-research feedback from 5 scientists at the OHBM Brainhack. From this, we validated current pain points around academia and data. We gathered initial feedback on our Data Wallet proof-of-concept and sourced questions and comments to flesh out our FAQ’s.
+[x] [x] Corporate partnerships with Neuroinformatics Consortia and to support the development of open-source toolkits for the neuroscience community
+- Our partnership over the summer with Google’s GSoC was a success.
+- We are continuing this work by drafting best practices for reproducible science and publishing the methods of how Web3 will help accelerate the improvement of those practices. This is an ongoing process and will help us develop functional, and user-first tools for scientists.
+[x] [x] Survey and quantitative metrics regarding attitudes toward the Data Economy, Ocean Academy, and Web 3.0
+- Further to the OHBM hackathon we carried out user-research in the community and have gathered 12 responses which have validated pain points, levels of understanding, and feedback on our vision. This further helped us to generate our FAQ’s and generate high-level user-requirements for the Opsciverse.
+[x] [x] Providing initial liquidity to publish the first neuroimaging dataset pool and applications for compute-to-data
+- This work is ongoing and initial steps have been taken to publish BIDS Apps and Shady’s brain  on the gaia-x testnet.
+[x] [x] Content creation
+- We have launched our blog page, please check it out to see what we are up to.
+- Walkthrough tutorials have been published on git-annex, DataLad and IPFS:
+- Demo: using git-annex with IPFS special remote
+- How to setup datalad with IPFS as remote storage
+- Our Dao Halls are now recorded and made available on our Youtube channel. Check out our latest one here. If you watch until the end you can hear Sarah’s candid review of it.
+",Completed,,10000,0x33359285f30e7b3386de70ca500f4fe27853765b,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,14,,133455,0
+Ocean x DeFi,Not Granted,3,Outreach,General,,,,,0x5f532e354a72ee73778f03e16823a2c2e2fb312b,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,17,,1000,0
+Project Appleseed,Not Granted,3,Outreach,General,,,,,0x07cb12A11b67407b3Ac90B3989AB5281d0B3Ee73,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,9,,0,0
+Currents Project,Not Granted,3,Unleash Data,General,,,,,0xbb397e3F90a5aB8daFd9D8b4E949546537A9d8fb,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,6,,946,0
+Voting Mechanism Design,Not Granted,3,DAO,General,,,,,0x85F52bc7fF503133C4387b76083a71EAC6cb577C,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,2,,5173,0
+Improve DAO Voting,Not Granted,3,DAO,General,,,,,0xa5a8c36e3f9C922BCfa56Cd05B5a4Ac6F8313827,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,12,,109073,0
+EU Regulations,Not Granted,3,Outreach,General,,,,,0x01e66950353400E93AEe7F041C0303103E2ef5Ab,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,16,,9559,0
+Amazon of AI,Not Granted,3,Build & Integrate,General,,,,,0x61B15998893cC746B46C08FEdEE13a0d1b33bBa9,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,15,,0,0
+Resilient ML,Not Granted,3,Unleash Data,General,,,,,0x4D4290CBA904aBb4dFbc1568766bCD88e67Be391,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,QmRNQBN8ojfqr5CwTLufJawnNd58pSv6B7tWuvA7YvmBqb,10,,27535,0
+Swipe AI,Funded,4,Build & Integrate,General,,Unreported,,6500,0x655efe6eb2021b8cefe22794d90293aec37bb325,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,1,,743070,0
+DataUnion Foundation,Funded,4,Build & Integrate,General,"[x] [X] Mobile app is in review in the Google Play store:
+
+Screenshot 2021-09-08 at 01.23.16
+
+
+
+",Completed,,6500,0x655efe6eb2021b8cefe22794d90293aec37bb325,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,13,,188500,0
+Green Light,Funded,4,Outreach,General,"[ ] [ ] This is currently being prepared, but took a lot more time, resources and effort as we ever could have imagined. This proposal will be updated after this process has led to first results.",In Progress,,6500,0x61B15998893cC746B46C08FEdEE13a0d1b33bBa9,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,2,,464037,0
+Oort Digital Platform,Funded,4,Build & Integrate,General,,Unreported,,6500,0x3e0852Fe3254B3EB934f7c6d23a4EB8c4493451d,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,9,,283404,0
+Coral Market,Funded,4,Build & Integrate,General,"[x] [x] Cloud Services for Storage and Hosting
+- We’ve secured a partnership with Textile to host up to 250TB of data on Filecoin free of charge for up to 1.5 years. Project description here.
+[x] [x] Development Bounties for Front-End Design, Back-End IDX database
+- The OceanDAO grant directly supported mentorship for Google Summer of Code to work on front-end design and research for the back-end. Below are the deliverables for the GSoC Project:
+- Kinshuk’s original GSoC project proposal for Decentralised storage of versioned BIDS datasets with IPFS, datalad and Ceramic
+- The blog post outlining Kinshuk’s work this summer with Opscientia and his work for GSoC - DAO Community Spotlight: Kinshuk Kashyap - Decentralized storage of versioned BIDS datasets with IPFS, datalad and Ceramic
+- Achintya’s original GSoC project proposal for Securing BIDS Neuroimaging Datasets Stored on Decentralized File Sharing Networks with Self-Sovereign DIDs and IPFS
+- The blog post outlining Achintya’s work this summer with Opscientia and his work as Opscientia’s first Open Web Fellow (made possible by OceanDAO) - Opscientia Community Spotlight: Opscientia Open Web Fellowship. His work on the front-end is available here
+[x] [x] User onboarding & testing
+- We gathered user-research feedback from 5 scientists at the OHBM Brainhack. From this, we validated current pain points around academia and data. We gathered initial feedback on our Data Wallet proof-of-concept and sourced questions and comments to flesh out our FAQ’s.
+- Further to the OHBM hackathon we carried out user-research in the community and have gathered 12 responses which have validated pain points, levels of understanding, and feedback on our vision. This further helped us to generate our FAQ’s and generate high-level user-requirements for the Opsciverse.
+",Completed,,6500,0x33359285f30e7b3386de70ca500f4fe27853765b,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,6,,32103,0
+Papers,Funded,4,Build & Integrate,General,,Unreported,,6500,0xb821a211957e317af957b28e7292b27a8f9a3b73,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,7,,34235,0
+Posthuman AI,Funded,4,Build & Integrate,General,"[x] [*][ 20th April : Production-ready Rinkeby deployment, capable of handling concurrent request efficiently - invitation for community testing. [Posthuman v0.3]
+As promised, with this round we bring to the Ocean community our first public-facing implementation of Zero-Knowledge Model usage on the Rinkeby network. We’ve published two assets:
+-DistilGPT2 Model Parameters, for use in ZK-state using C2D [https://market.oceanprotocol.com/asset/did:op:aa82a24d62de1eB817c2173fff8B8c12d7b1Bbf9]
+-Self contained inference algorithm, tested for data leakage
+[https://market.oceanprotocol.com/asset/did:op:aa82a24d62de1eB817c2173fff8B8c12d7b1Bbf9]
+[x] [*] 30th April : Partner with various AI companies for demo, onboard for launch, give advanced credits.
+We exposed the public facing models for community testing for the first time. As AI models are non-deterministic, each inference request will result in 5 new, unique completions by the AI of a paragraph from wikipedia. We will be adding all the other algorithms as assets shortly for more complete testing.
+Using these, users can get a feel for the power of Zero-Knowledge Model marketplaces on Ocean, without writing any code. One can perform inference and be certain that the same model asset was used to provide inference (verifiability), without being aware of the model parameters.
+Other deliverables are longer term (6-12 month) dev objectives, as explained in the scope of the grant. We delivered by progressing each deliverable.",Completed,,6500,0x21e06646433954aabace8e3d93d502e423249299,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,12,,36016,0
+Resilient ML,Funded,4,Unleash Data,General,"Qualifier: We understood these proposals at the time as a bigger structure that would have a long term engagement horizon - with multiple stages. In order to show the community our long term roadmap we outlined a 5-month horizon with deliverables in stages. Thus one funded grant addresses some portion of this roadmap.
+[x] In Round 4 we identified how to access the raw data in different news sources (which each have their own format), and scoped architecture of our machine learning pipeline. This included:
+[x] 1. Best method to scrape websites using Beautiful Soup and Selenium in python.
+[x] 2. Best way to merge data munging techniques that were proprietarily developed (punctuation and numbers processing, letter casing, stemming, stopword list compilation and stopword removal, identification of word compounds and low-frequency words) with standard Python packages for scraping websites, such as BeautifulSoup. We designed and implemented a data template in JSON and pickle form for ease of access to accommodate different types of features (n-grams, sentiment signals, dependency graphs, grammar trees).
+[x] 3. Held discussions with engineers to identify hosting service and data uploading scheduler.
+[x] 4. Manually compiled and hosted our initial dataset on Polygon on 16th April 2021 with manual weekly updates through April and May. This dataset contained articles on five assets (BTC, ETH, LTC, XRP, TRX) obtained from Cryptodaily and Cryptoslate and spanning the years 2017-2021.",Completed,,6500,0x4D4290CBA904aBb4dFbc1568766bCD88e67Be391,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,8,,42976,0
+Project Coral,Funded,4,Outreach,General,"[x] [x] Conference Workshops & Seminars
+Our team has presented at multiple conferences and hackathons, including the International Neuroinformatics Coordinating Facility Conference and the Organization for Human Brain Mapping.
+As part of this, we have conducted user research on token economies and the pain points for researchers working with cloud computing workflows. This information will help us perform user requirement design as we finalise our architecture for an application to support Decentralised Scientific Workflows.
+[x] [x] Training & Development
+The OceanDAO grant enabled us as a team to take part in Kernel Block III.
+Below are the deliverables for training and development:
+- Opscientia were chosen as one of the top projects to present in the Final Showcase.
+- We have also summarised our incredible experience in a blog.
+[x] [x] Google Summer of Code Project
+The OceanDAO grant directly supported mentorship for Google Summer of Code to work on open-source projects at the intersection of Open Science and Web 3.0.
+Below are the deliverables for the GSoC Project:
+- Kinshuk’s original GSoC project proposal for Decentralised storage of versioned BIDS datasets with IPFS, datalad and Ceramic
+- The blog post outlining Kinshuk’s work this summer with Opscientia and his work for GSoC - DAO Community Spotlight: Kinshuk Kashyap - Decentralized storage of versioned BIDS datasets with IPFS, datalad and Ceramic
+- Achintya’s original GSoC project proposal for Securing BIDS Neuroimaging Datasets Stored on Decentralized File Sharing Networks with Self-Sovereign DIDs and IPFS
+- The blog post outlining Achintya’s work this summer with Opscientia and his work as Opscientia’s first Open Web Fellow (made possible by OceanDAO) - Opscientia Community Spotlight: Opscientia Open Web Fellowship
+[x] [x] Hackathon Spree
+OceanDAO has helped us take part in multiple hackathons over the summer and this has resulted in Opscientia being rewarded for our work and helping spotlight the importance of open science to the wider Web3 and scientific communities.
+- The team took part in the ETHGlobal Web3Weekend hackathon to build a proof-of-concept of our Data Wallet. The next steps include building out the minimum viable product for scientists to use and test by the end of 2021.
+- Our blog post outlining our experience at the ETHGlobal Web3Weekend hackathon - Opscientia DAO Wins Multiple Awards at the EthGlobal Hackathon
+- The team also took part in the OHBM Brainhack 2021. Our GitHub issue explains our submission in greater detail
+- We gathered user-research feedback from 5 scientists at the OHBM Brainhack. From this, we validated current pain points around academia and data. We gathered initial feedback on our Data Wallet proof-of-concept and sourced questions and comments to flesh out our FAQ’s.
+[x] [x] Corporate partnerships with Neuroinformatics Consortia and to support the development of open-source toolkits for the neuroscience community
+- Our partnership over the summer with Google’s GSoC was a success.
+- We are continuing this work by drafting best practices for reproducible science and publishing the methods of how Web3 will help accelerate the improvement of those practices. This is an ongoing process and will help us develop functional, and user-first tools for scientists.
+[x] [x] Survey and quantitative metrics regarding attitudes toward the Data Economy, Ocean Academy, and Web 3.0
+- Further to the OHBM hackathon we carried out user-research in the community and have gathered 12 responses which have validated pain points, levels of understanding, and feedback on our vision. This further helped us to generate our FAQ’s and generate high-level user-requirements for the Opsciverse.
+[x] [x] Providing initial liquidity to publish the first neuroimaging dataset pool and applications for compute-to-data
+- This work is ongoing and initial steps have been taken to publish BIDS Apps and Shady’s brain  on the gaia-x testnet.
+[x] [x] Content creation
+- We have launched our blog page, please check it out to see what we are up to.
+- Walkthrough tutorials have been published on git-annex, DataLad and IPFS:
+- Demo: using git-annex with IPFS special remote
+- How to setup datalad with IPFS as remote storage
+- Our Dao Halls are now recorded and made available on our Youtube channel. Check out our latest one here. If you watch until the end you can hear Sarah’s candid review of it.
+",Completed,,6500,0x33359285f30e7b3386de70ca500f4fe27853765b,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,11,,54673,0
+RugPullIndex,Funded,4,Build & Integrate,General,"[x] [x] We pledge to convert the received funds to USDC upon arrival to minimize our exposure risk and maximize our predictable length of operation.
+[x] [x] We want to improve the performance graph by allowing users to choose their currency base (e.g., BTC, USD, EUR). (We’ve added a new currency pair (OCEAN/USD) and consider this task to be done.)
+[x] [x] We want to show that investing in rugpullindex is superior to picking assets at random.
+[x] [x] We want to allow users to compare different data set’s prices in a graph.
+[x] [x] We’re closely monitoring layer 2 data markets, and we’re eager to track their assets too.
+[x] [x] Improved the TOP 25 ranking by adding additional data (blog post).
+[x] [x] Improved the page’s download speed (blog post).
+[x] [x] Improved the crawler’s reliability (blog post).
+[x] [x] shipped and open-sourced a performance-optimized SVG line chart library that we’re now using in production (github.com/TimDaub/svg-line-chart ).
+[x] [x] reached out to developers multiple times with different stories:
+    [x] [x] “How I maintained my side project on Easter with Termux”
+    [x] [x] “Saving Gas on the Ethereum Mainnet”
+    [x] [x] “Can Sleepminting Ruin NFT Provenance?” (I was featured in this week’s “week in Ethereum” newsletter
+",Completed,,6500,0xbd85278343fa47d599f42548d85084f57f6cb41d,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,3,,86964,0
+deltaDAO,Funded,4,Outreach,General,"[x] [X] We deployed our live app at https://market.delta-dao.com/
+[x] [X] We have open-sourced our complete code: https://github.com/deltaDAO/Ocean-Market 1
+",Completed,,6500,0x2da922CBeB06c377741a51dDc85c735429Bc2965,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,10,,188722,0
+Ocean Dashboard,Funded,4,Build & Integrate,General,,Unreported,,6500,0x97072299584503B7F9ae9A48CbcD30C0Ae2274A2,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,5,,150261,0
+SecondLook,Not Granted,4,Build & Integrate,General,,,,6500,0xb720883cb0e6FF8e9978c91009e3a49F09a13047,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,14,,587,0
+The Currents Project,Not Granted,4,Unleash Data,General,,,,6500,0xbb397e3F90a5aB8daFd9D8b4E949546537A9d8fb,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,QmYdPQ59SBTV5MbyQZ2AGrEWYBe2jaqDhydM9xWhz6LAsX,4,,600,0
+Project Coral,Funded,5,Outreach,Outreach,"[x] [x] Conference Workshops & Seminars
+Our team has presented at multiple conferences and hackathons, including the International Neuroinformatics Coordinating Facility Conference and the Organization for Human Brain Mapping.
+As part of this, we have conducted user research on token economies and the pain points for researchers working with cloud computing workflows. This information will help us perform user requirement design as we finalise our architecture for an application to support Decentralised Scientific Workflows.
+[x] [x] Training & Development
+The OceanDAO grant enabled us as a team to take part in Kernel Block III.
+Below are the deliverables for training and development:
+- Opscientia were chosen as one of the top projects to present in the Final Showcase.
+- We have also summarised our incredible experience in a blog.
+[x] [x] Google Summer of Code Project
+The OceanDAO grant directly supported mentorship for Google Summer of Code to work on open-source projects at the intersection of Open Science and Web 3.0.
+Below are the deliverables for the GSoC Project:
+- Kinshuk’s original GSoC project proposal for Decentralised storage of versioned BIDS datasets with IPFS, datalad and Ceramic
+- The blog post outlining Kinshuk’s work this summer with Opscientia and his work for GSoC - DAO Community Spotlight: Kinshuk Kashyap - Decentralized storage of versioned BIDS datasets with IPFS, datalad and Ceramic
+- Achintya’s original GSoC project proposal for Securing BIDS Neuroimaging Datasets Stored on Decentralized File Sharing Networks with Self-Sovereign DIDs and IPFS
+- The blog post outlining Achintya’s work this summer with Opscientia and his work as Opscientia’s first Open Web Fellow (made possible by OceanDAO) - Opscientia Community Spotlight: Opscientia Open Web Fellowship
+[x] [x] Hackathon Spree
+OceanDAO has helped us take part in multiple hackathons over the summer and this has resulted in Opscientia being rewarded for our work and helping spotlight the importance of open science to the wider Web3 and scientific communities.
+- The team took part in the ETHGlobal Web3Weekend hackathon to build a proof-of-concept of our Data Wallet. The next steps include building out the minimum viable product for scientists to use and test by the end of 2021.
+- Our blog post outlining our experience at the ETHGlobal Web3Weekend hackathon - Opscientia DAO Wins Multiple Awards at the EthGlobal Hackathon
+- The team also took part in the OHBM Brainhack 2021. Our GitHub issue explains our submission in greater detail
+- We gathered user-research feedback from 5 scientists at the OHBM Brainhack. From this, we validated current pain points around academia and data. We gathered initial feedback on our Data Wallet proof-of-concept and sourced questions and comments to flesh out our FAQ’s.
+[x] [x] Corporate partnerships with Neuroinformatics Consortia and to support the development of open-source toolkits for the neuroscience community
+- Our partnership over the summer with Google’s GSoC was a success.
+- We are continuing this work by drafting best practices for reproducible science and publishing the methods of how Web3 will help accelerate the improvement of those practices. This is an ongoing process and will help us develop functional, and user-first tools for scientists.
+[x] [x] Survey and quantitative metrics regarding attitudes toward the Data Economy, Ocean Academy, and Web 3.0
+- Further to the OHBM hackathon we carried out user-research in the community and have gathered 12 responses which have validated pain points, levels of understanding, and feedback on our vision. This further helped us to generate our FAQ’s and generate high-level user-requirements for the Opsciverse.
+[x] [x] Providing initial liquidity to publish the first neuroimaging dataset pool and applications for compute-to-data
+- This work is ongoing and initial steps have been taken to publish BIDS Apps and Shady’s brain  on the gaia-x testnet.
+[x] [x] Content creation
+- We have launched our blog page, please check it out to see what we are up to.
+- Walkthrough tutorials have been published on git-annex, DataLad and IPFS:
+- Demo: using git-annex with IPFS special remote
+- How to setup datalad with IPFS as remote storage
+- Our Dao Halls are now recorded and made available on our Youtube channel. Check out our latest one here. If you watch until the end you can hear Sarah’s candid review of it.
+",Completed,,7500,0x33359285f30e7b3386de70ca500f4fe27853765b,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmSqZmovPa597i2LdFB8eEVqu8LRK9XuQBf49MhhAFdiBQ,QmSqZmovPa597i2LdFB8eEVqu8LRK9XuQBf49MhhAFdiBQ,,,666716,500
+DeFi Pulse for Datatokens,Not Granted,5,Build & Integrate,General,,,,7500,0xbb397e3F90a5aB8daFd9D8b4E949546537A9d8fb,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmTQnbVS9i6fa9b1cV93KEJ9riUTdmyDXPmopC9yrUheZG,QmTQnbVS9i6fa9b1cV93KEJ9riUTdmyDXPmopC9yrUheZG,,,43398,0
+AI Synthetic Data Generation,Not Granted,5,Unleash Data,General,,,,7500,0xb720883cb0e6FF8e9978c91009e3a49F09a13047,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVyPo566SRodxKNSrznrCsMvHrbLn88QwDxpGyM33iH67,QmVyPo566SRodxKNSrznrCsMvHrbLn88QwDxpGyM33iH67,,,73687,500
+DataUnion Foundation,Funded,5,Build & Integrate,General,[x] [X] Annotation feature v1 available - see https://alpha.dataunion.app/annotate,Completed,,7500,0x655efe6eb2021b8cefe22794d90293aec37bb325,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmcNpiuPrvk6QWDx344FU7qjZYasM93aBJ6H2QnsafydMm,QmcNpiuPrvk6QWDx344FU7qjZYasM93aBJ6H2QnsafydMm,,,1014809,500
+deltaDAO,Funded,5,Outreach,Outreach,"[x] [X] Results have been delivered an open repository: https://github.com/deltaDAO/Ocean-Protocol-Use-Cases
+[x] [X] Results have been shared on Twitter, LinkedIn, Telegram and Discord and we’ll continue to do so, please see: https://twitter.com/deltaDAO and https://www.linkedin.com/company/deltadao
+[x] [x] Results have been shared with Gaia-X community and will be shared with INATBA and Bundesblock. Furthermore we shared the results in the EU Public Consultation on the upcoming Data Act.
+[x] [X] The results can be commented on, reused and improved by the community and we’ll share the deck and templates with anybody interested in the creation of their own use cases. It was also represented in the OceanDAO Townhall.
+",Completed,,7500,0x2da922CBeB06c377741a51dDc85c735429Bc2965,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmR8zuyKNUk1MJtQBeTmCVEkuhBLPt2pgNxj8QgW5xJQ5r,QmR8zuyKNUk1MJtQBeTmCVEkuhBLPt2pgNxj8QgW5xJQ5r,,,962031,0
+Posthuman AI,Rejected,5,Build & Integrate,General,,Completed,,7500,0x21e06646433954aabace8e3d93d502e423249299,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmcHbwN7iMzYwrfrHBvSwa3dQiKGuaYjA38aYebayA2kej,QmcHbwN7iMzYwrfrHBvSwa3dQiKGuaYjA38aYebayA2kej,,,0,0
+VideoWiki,Not Granted,5,Build & Integrate,General,"Round 5: Not Granted - Optimization of the user journey to sign the transactions involved in the OCEAN marketplace listing. Launching the Classroom, and onboarding Class records to Market.
+[x] Status - Completed, despite not being funded. Live at Class.Video.Wiki
+Class records can be auto split with AI, post processed and pushed to marketplace",Completed,,7500,0x3fcb6d40d237844902204a4718db47034e0d0929,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmcibtsLHWuGVWugsaooKRDV8Zx5M1auAFRv1f8YsrSb8L,QmcibtsLHWuGVWugsaooKRDV8Zx5M1auAFRv1f8YsrSb8L,,,52023,29998
+RugPullIndex,Funded,5,Build & Integrate,General,"[x] [x] We want to improve the website’s user experience by, e.g., allowing different currency bases, comparing data sets,… ( We’ve added a new currency pair (OCEAN/USD) and consider this task to be done.)
+[x] [x] We want to integrate other marketplaces (e.g., Big Data Protocol) and L2 solutions (e.g., Polygon) upon impact on our index ranking.
+[x] [x] We want to do SEO.
+[x] [x] We want to maintain the project by, e.g., moving from Aquarius to the OP subgraph.
+[x] [x] We want to continue working towards launching an ERC-20 token to allow investors to gain diversified exposure to the best data assets on Ocean Protocol.
+[x] [x] We published a blog post on:
+[x] [x] the project’s monetization strategy
+[x] [x] how insightful plausible.io’s web analytics are.
+[x] [x] why we’re starting to research rollups.
+[x] [x] where we’re at with our research for scalability and rollups.
+[x] [x] We added Big Data Protocol assets into the index (post)
+[x] [x] We released a public API
+[x] [x] We’ve started open sourcing components on our GitHub organization
+[x] [x] We’ve started doing business development research in collaboration with ﻿Unknown﻿
+",Completed,,7500,0x005241438cAF3eaCb05bB6543151f7AF894C5B58,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmQvFzquuCRbNesQtuHKJ5Z5JqgCN8WbE8BHjXyquukgm6,QmQvFzquuCRbNesQtuHKJ5Z5JqgCN8WbE8BHjXyquukgm6,,,1235214,500
+Ocean Missions,Funded,5,Outreach,Outreach,"This project has been complete. Findings from our research can be found here:
+[x] Go To Market Analysis for Data Markets & Data Brokers on Ocean Protocol 2
+[x] How to identify buyers for your datasets using Ocean’s Data Markets 1
+[x] 4 New Ocean DAO Projects that Build Upon our Research Findings 1
+[x] Useful resources for future Ocean Data Brokers & Markets 1
+[x] 7 lessons Web3 data markets can learn from the Web2 data economy 1
+",Completed,,7500,0xB1A549920b38b2F7C80443b49B5A75DB3A4Cd5F5,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRD6RX87LyLDcJkCh4eqUau95394DRL1eQY9znRPByJrB,QmRD6RX87LyLDcJkCh4eqUau95394DRL1eQY9znRPByJrB,,,922417,1470
+Resilient ML,Funded,5,Unleash Data,General,"In this round, we focussed on automation of the steps using a robust cloud infrastructure identified in round 4, as well as worked on academic papers utilising our methodology. Working on academic papers is important as they are subject to strict peer review procedures to ensure quality, which gives confidence in the way we process our datasets, as well as proves and increases their utility and market value.
+[x] 1. Improved and extended python code for automatic scraping of the websites (Cryptodaily, Cryptoslate), and extended the news sources (Coindesk), and set of assets and news topics covered from 5 to 23.
+[x] 2. Developed storage solution in Box to automatically construct and store weekly dataset updates.
+[x] 3. Finished 2 academic papers and started 1 – all of which included the dataset published on the Ocean Market.
+- Sentiment model paper sent to peer review: (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3742063). Once paper is accepted we will write a Medium article providing an executive summary of the paper and data utilised (note review process is 6-12 months).
+- Published paper in PloS ONE, utilising sentiment data f or COVID-19, which will be available on the Ocean Market as a future dataset. (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253381)
+- Submitted an invited executive summary of the COVID-19 paper to a journal in the pharmaceutical community to increase awareness for NLP usages and the data economy.
+[x] 4. Started academic paper on utilising price and technology factors at different time scales to forecast market sentiment (submitted for review).
+[x] 5. Presented the On-Chain analytics paper to Women in Data Science Conference in London (2021), raising awareness on blockchain technologies and the data economy.
+[x] 6. Posted on LinkedIn to increase awareness of our work and promote the data economy.
+[x] 7. Monthly summary of dataset growth:
+Start: 2017 – end of April 2021: 13127107 tokens
+end of May 2021: 13463311 tokens
+end of June 2021: 13627931 tokens
+end of July 2021: 13760124 tokens
+middle of August 2021: 13830419 tokens",Completed,,7500,0x4D4290CBA904aBb4dFbc1568766bCD88e67Be391,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVe6Bk1dq4r9uAgRyANdFrYhF8d2S7UajqACb3USMBehU,QmVe6Bk1dq4r9uAgRyANdFrYhF8d2S7UajqACb3USMBehU,,,982232,500
+Resilient ML,Funded,5,Outreach,Outreach,"[x] [X] 1. Developed entire syllabus for 3 certificates - basic/intermediate/advanced that we shared with Ocean Protocol Foundation (OPF), and Ocean Academy. Topics were tailored to Ocean applications.
+[x] [X] 2. This proposal was presented to Ocean academy and OPF for consideration of a joint venture - declined.
+[x] [X] 3. Proposal was rewritten in form of labs/tutorial/hackathons utilising same style of content, but restructured in delivery mode required by OPF, and presented again - declined.
+[x] [X] 4. Developed 2 intermediate level courses on topics which were:
+- Feature extraction using kernel methods. Notes preparation for Course 1 on kernel methods took 500 hours. This included ~50 pages of maths and latex notes, R worked examples, Shiny apps, and accompanying video.
+- Text pre-processing for NLP models. Notes preparation for course 2 took ~50 hours. This included ~30 slides, R + Python code, ~10 pages of Latex notes, and a video. The presented applications included methodologies and datasets consistent with those ResilientML have been selling on Polygon marketplace on Ocean. Course materials, code, videos will be sold on Polygon for 100 USD fixed cost. Upload date is expected to be 1st Sep 2021.
+",Completed,,7500,0x4D4290CBA904aBb4dFbc1568766bCD88e67Be391,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmSTxsCdULxkoVM1fwHfu1aArWT1QFcCLCGEiR9pfYa6Lk,QmSTxsCdULxkoVM1fwHfu1aArWT1QFcCLCGEiR9pfYa6Lk,,,1014276,500
+roto.life ,Not Granted,5,Build & Integrate,General,,,,7500,0x4B46AA204A9f39e35C62cb7b14Bccc282972bb25,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYAvijMaoKRXjLAb7PjmR9wykvERXqUmVkcTKML13f3aw,QmYAvijMaoKRXjLAb7PjmR9wykvERXqUmVkcTKML13f3aw,,,17549,21367
+Evotegra,Funded,5,Unleash Data,General,"We delivered 6 of 6 classes while switching one class from bus to train/tram/metro with actually twice as much annotations than promised.
+We are going to update the EVO/2MP/TRFC/DE/200K dataset with the classes:
+[x] [X] cars
+[x] [X] bicycles
+[x] [X] motocycles
+[x] [X] trucks
+[x] [-SWITCHED] bus
+[x] [X] people
++
+[x] [X] train/tram/metro
+with at least 500000 new AI validates instances.
+[x] [X] 989911",Completed,7500,7500,0xf88bD9c3F81f7148E4076bBB8b2e2B0951A8cE38,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYfu1RucmhZkTbChuy5KDVV3z4WpDgGyiWeUV69sc4GZz,QmYfu1RucmhZkTbChuy5KDVV3z4WpDgGyiWeUV69sc4GZz,,,1135926,0
+Ocean Pearl,Funded,5,DAO,Outreach,"Milestone 1: MVP release:
+[x] A functioning web app (oceanpearl.io) with 3 dedicated pages home with metrics about oceanDAO projects (https://oceanpearl.io/ 1)
+    - projects overview (Projects: https://oceanpearl.io/projects + Proposals https://oceanpearl.io/dao-proposals) (Explainer: 1 project can have multiple proposals)
+    - project details (Example Page: https://oceanpearl.io/projects/bF7F656f34-ocean-pearl)
+[x] A custom backend prepared for future development (https://github.com/ocean-tech-ship/ocean-pearl-api)
+    - API provision for external data consumers (Swagger API-docs: https://oceanpear-api.herokuapp.com/api/)
+[x] Deployed on self-controlled infrastructure  (https://oceanpearl.io/ 1)
+[x] User Analytics integration  (https://plausible.io/oceanpearl.io)
+    - measurement of user traffic
+    - preparation for data-based feature development
+",Completed,,7500,0xe6E3459bA0d70699F54464cc4b5d273810E7EC7B,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/Qmd3dYyVUw87uQejG2KDiQoAVwHY6rSgToL3YywdWj8gGq,Qmd3dYyVUw87uQejG2KDiQoAVwHY6rSgToL3YywdWj8gGq,,,1025153,0
+Ocean Vantage,Not Granted,5,Build & Integrate,General,,,,7500,0x630cc8ffc2041b7C3E85892e2052b89BCC790454,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmP6vEBn99yBG84pXbCWFDMSekmfmukL6CGQEFHf1SsrfJ,QmP6vEBn99yBG84pXbCWFDMSekmfmukL6CGQEFHf1SsrfJ,,,88773,0
+Posthuman AI,Funded,5,Build & Integrate,General,"[x] [*] 15th May : Publication on mainnet after fixing any bugs/errors. Includes API documentation for publishing, training, and using AI models. [Posthuman v1]
+Thanks to the funding provided by the Ocean Community, Posthuman v1 Models are now live on the mainnet!
+We’ve published a pretrained DistilBERT Question-Answering Model, and a pretrained DistilGPT2 model as an asset on the mainnet, along with template inference script for each model. Users can edit this algo and get AI completions/Answers on any text, all within ocean protocol’s C2D ecosystem, with its accompanying guarntees of verifiability and privacy.
+- Pretrained DistilBERT-QA Model (NEW): Answers any plaintext question extractively given any context paragraph [https://market.oceanprotocol.com/asset/did:op:A24F1E5C1c0Dea2b3820812E2c846a54fdb54D80]
+- Question-Answering Inference Algorithim (NEW): Allows you to answer any question using the DistilBERT-QA model. Edit this for custom inference.
+- [https://market.oceanprotocol.com/asset/did:op:50C48d3eE0Ed47479d3e2599FAe0076965cBD39c]
+- Pretrained DistilGPT2 Model Parameters(Zip file with pytorch model + config & vocab files): https://market.oceanprotocol.com/asset/did:op:c6F418dD714fAd11dcE5ff9935E2820691F02cA8
+- Template Inference Algorithim: https://market.oceanprotocol.com/asset/did:op:f0e1C9fa4738a44837AB5bE0837f488F3232aFe8
+[x] [*] 30th May : Addition of market & inference UI to increase usability; Add filecoin and Secret Network support [Posthuman v1.1]
+There are major trade-offs involved in running our own Custom hardware based Ocean Market and posting assets on Ocean Market - which we’ve detailed in this document - https://docs.google.com/document/d/1PBvxKD3_a0DsSjfjCrqOWJXew6idl4f9Py3dKrPRxTs/edit?usp=sharing. This includes a summary of our extensive work towards setting up our own K8 +C2D environment as well.
+Due to these trade-offs, we decided to prioritize API access to our models on Ocean Market First, before working on the much longer process of setting up our own marketplace.
+Briefly, publishing Models on Ocean Market can be done (upto model sizes of 128M params) and is itself a $100 million + market. Meanwhile the development and server costs of hosting our own market are enormous. Therefore we’ve prioritised delivering working AI models on Ocean Market first, before working on the longer term and larger goal of Making our own fork of Ocean Market, which will probably require 3+ months more and some additional funding besides Ocean DAO.",Completed,,7500,0x21e06646433954aabace8e3d93d502e423249299,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmfSLNdwGy2Gd9X6W5QRHtTft2Xigs1YsXMGxTvGFNsEna,QmfSLNdwGy2Gd9X6W5QRHtTft2Xigs1YsXMGxTvGFNsEna,,,667711,500
+Go to Market Analysis ,Rejected,5,Outreach,Outreach,"[x] Go To Market Analysis for Data Markets & Data Brokers on Ocean Protocol 1
+[x] How to identify buyers for your datasets using Ocean’s Data Markets 1
+[x] 4 New Ocean DAO Projects that Build Upon our Research Findings 1
+[x] Useful resources for future Ocean Data Brokers & Markets 1
+[x] 7 lessons Web3 data markets can learn from the Web2 data economy 1",Completed,,7500,0x591c9C5bf95E2264cac458D02855684a4A3bF32c,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmNn7mTEER8sqooYUAYjnHLgwnGWYhvW2w5FGCH28X4S6t,QmNn7mTEER8sqooYUAYjnHLgwnGWYhvW2w5FGCH28X4S6t,,,0,0
+The Pelican,Not Granted,5,Outreach,Outreach,,,,7500,0xB058FE01dD09Fe8aefA64346892eBb39A0a41AdB,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmSJkxk3ZCG7VCsqShTemv29dC3owmfq8uM3BsA6yN4y9Y,QmSJkxk3ZCG7VCsqShTemv29dC3owmfq8uM3BsA6yN4y9Y,,,663153,0
+RugPullIndex,Funded,6,Build & Integrate,General,"[x] [x] Market API and help our customers to integrate it
+[x] [x] Continue user research to improve the website conversion
+[x] [x; ERIGON NODE] Improve scalability of on-chain crawler to improve data quality, quantity & currentness
+- By now moving the crawler onto our own Erigon Ethereum full node; we’ve arguably increased the data quality and we’ve also scaled potential quantity. We can now virtually make as many requests as we want without incurring additional costs. A final step that we wanted to do in this deliverable was to increase the number of crawls per day. Unfortunately, we exceeded the budget on that task and we’ll have to raise more funds in a future round to make that happen too.
+[x] [x] Start implementing insights of rollup research into prototype transaction aggregator smart contract
+[x] [x] We wrote a blog post on stolen data that reached 2k Reddit users.
+[x] [x] We’re now displaying historical price data in EUR
+[x] [x] We released a historical price data API endpoint
+[x] [x] We finished our first business development sprint and gained valuable insights
+[x] [x] We released a specification that shows how rugpullindex’s rank works
+[x] [x] We introduced honeybatcher, a pessimistic rollup that will help lower Ethereum’s gas prices
+[x] [x] We’ve added structured metadata to improve our search engine results
+[x] [x] We’re in the final phases of having our API integrated into DataWhale’s alga.
+",Completed,13000,13000,0x005241438cAF3eaCb05bB6543151f7AF894C5B58,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/Qmd1wBQhUUDaMLjniNeeGVz6F4GFfuSxgJ8JZP7cXgPChN,Qmd1wBQhUUDaMLjniNeeGVz6F4GFfuSxgJ8JZP7cXgPChN,,,1603354,0
+Ocean Vantage,Funded,6,Unleash Data,New Entrants,"[x]  Build Ocean Vantage Open Source Databridge
+- With this opensource code anyone can bring a databridge online and convert data streams which enables anyone to publish or consume data on the Ocean Marketplace in either native WSS or Webhook or API. We will work to incorporate signal validators and hosted databridge services in phase 3 & 4 of which we just received a grant for.
+    - Github Repo: https://github.com/vantagecrypto/OV_Data_Bridge
+    - Current demo server: https://bridge.vantagecrypto.com
+[x] Fork and bring online, lightly branded Ocean Marketplace fork (SSDN)
+- We have brought our marketplace fork online and added some light branding. The bulk of our work here will be in phase 3 & 4 which we just received a grant for.
+    - marketplace fork: https://market.vantagecrypto.com 1
+",Completed,20000,20000,0x630cc8ffc2041b7C3E85892e2052b89BCC790454,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmNx1fEHLu2eKBqMVyQZeuSVnjUhhcbDDGixGoq6jrbVgr,QmNx1fEHLu2eKBqMVyQZeuSVnjUhhcbDDGixGoq6jrbVgr,,,370919,38030
+Algovera,Funded,6,Unleash Data,New Entrants,"[x] [X] App Development: Available for download at https://drive.google.com/drive/folders/1k3-2ZyJSsK9WdjUOFmjNz8S-xHsxB6KL?usp=sharing
+[x] [X] Business Model Development: Blog post published at https://medium.com/@richardblythman/building-automated-tools-for-physiotherapy-applications-with-ocean-protocol-9d5058b58b43
+[x] [X] Promo video live at https://www.youtube.com/watch?v=wBa6iw3kNGg
+[x] [X] We will provide the link to the dataset here once it is published",Completed,27200,27200,0x36f741F4808a329C9E876F551Bcf337B7dDc54Ff,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmQmJj6U7WJdSuuZbMdWy85bBK3LDPsBp5RiTreXKYoBUz,QmQmJj6U7WJdSuuZbMdWy85bBK3LDPsBp5RiTreXKYoBUz,,,603918,38030
+Evotegra,Funded,6,Unleash Data,General,"
+We delivered 5 of 6 classes. During the project it turned out that wide dashed lanes lacked available data and separation from normal dashed lanes. To compensate the missing class, we delivered another 132.000 annotations (26%) over the promised minimum amount.
+We updated the EVO/2MP/TRFC/DE/200K dataset with the classes:
+[x] [X] dashed lane
+[x] [- switched] wide dashed lane
+[x] [X] solid lane
+[x] [X] double solid lane
+[x] [X] arrows
+[x] [X] zebra crossing
+with at least 500000 new AI validates instances.
+[x] [X] 632415
+extend the dataset to over 2 million unique labels
+[x] [X] 2035145",Completed,16500,16500,0x61B15998893cC746B46C08FEdEE13a0d1b33bBa9,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRcEbWFJLEoJwsVu688X8uxJGVeYMKV2CF3WezXM9raSM,QmRcEbWFJLEoJwsVu688X8uxJGVeYMKV2CF3WezXM9raSM,,,1043445,0
+VideoWiki,Funded,6,Build & Integrate,General,"Round 6: Researched various streaming options to onboard to our marketplace. Build UI around the Casting flow and conducted successful pilot events.
+[x] Status - Completed. Private Beta live at CAST.Video.Wiki
+This was by far our most challenging and most rewarding work. We changed our course of action but explored options to get the CAST live to get validations and prove the working with 2 events (and more in pipeline). We partnered with multiple entities to get this going and staked all our brands on one technology solution. We almost bet it all on just one thing working fine in the end.
+Instead of building a decentralized ticket system, we explored and worked on the complete cast solution which was an over commitment that took us 3 months to finish. The first ever live cast on the system was with OCEAN projects DataUnion, DataWhale and Algovera (Previously Onshore) with a series of 4 showcase sessions, one 8 hour conference, and then another 16 hour (2 day) event running on the system, without a glitch.",Completed,18000,18000,0xe151E8BE121864EDDB83E7D0484b87596cAD2fA5,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/Qmca7fw5EmZD4BC9YCLD1tqTzUEPCo8qxsY39c6ZVSesHZ,Qmca7fw5EmZD4BC9YCLD1tqTzUEPCo8qxsY39c6ZVSesHZ,,,451656,0
+Solipay,Funded,6,Unleash Data,New Entrants,,Unreported,27200,27200,0x748C597E4cD11D6514DBF76EfE458Db290aa4b3d,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmUAZYnNDLSwfZqUHjVJ7w5GM49qpeyLzAX4c8KWnhNbqU,QmUAZYnNDLSwfZqUHjVJ7w5GM49qpeyLzAX4c8KWnhNbqU,,,170611,0
+Data Whale,Funded,6,Build & Integrate,General,"[x] [X] Launched Data Token / Data Economy YouTube Channel, reaching over 15K impressions and led to dataset sales and staking on the Marketplace.
+
+Screen Shot 2021-08-10 at 4.26.56 PM
+2250×836 54 KB
+
+Screen Shot 2021-08-12 at 3.33.20 PM
+1175×149 21.1 KB
+
+Screen Shot 2021-08-12 at 3.33.56 PM
+1078×62 8.36 KB
+
+[x] [X] Signed up and set up showcase at the Alternate Future Summit
+1. https://altfuture.pt/dataWhale.html
+[x] [X] Trading Analysis Tools: Re-designed and updated Directory dataset to provide the promised Data Token Analysis Tool. WONPEL-82’s data was used to to provide an analysis of estimated APY per pool.
+1. https://www.youtube.com/watch?v=tWL9hGk1W-0&t=176s
+2. https://market.oceanprotocol.com/asset/did:op:fcB47f5781F14Ed7E032BD395113b84C897aA23f
+[x] [X] Implemented Rugpullindex on ALGA mobile app test-version here:
+1. https://twitter.com/realdatawhale/status/1422568683944173568?s=20
+[x] [X] Conducted Data Token Community Giveaway (0.1 ETH worth of TREPEL-36)
+1. https://etherscan.io/tx/0xae3dbb181c6e3ceda69c63b8283e80f946e437783497a39b5c3f8829e0ae7926…
+2. https://twitter.com/realdatawhale/status/1405488305429311489?s=20
+[x] [X] Continued business development efforts with the help of new material (backup of Email correspondence can be provided upon request).",Completed,15000,15000,0xbbd33AFa85539fa65cc08A2e61a001876D2f13FE,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmTMYZhaYPAUMvCMQYHtwMMkvd8n7w7vfmb1a2ywCfAkBn,QmTMYZhaYPAUMvCMQYHtwMMkvd8n7w7vfmb1a2ywCfAkBn,,,1205720,0
+Alternate Future Summit,Funded,6,Outreach,New Entrants,,Unreported,24590,24590,0x48E13Ab513A0d26f921707ad4F38989e2C587f25,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRyVSzHTnJ94RmqZUUJV6eTQQtNXM1cfneCezzNpTLrNq,QmRyVSzHTnJ94RmqZUUJV6eTQQtNXM1cfneCezzNpTLrNq,,,45535,42
+Ocean Ambassadors,Funded,6,DAO,New Entrants,"[ ] [ ] Creation of dedicated Ocean Ambassadors Branding (spin-off from Ocean Protocol) -> rescheduled to next month
+[x] [X] Hosting, development, and ongoing support for the Ocean Ambassador Website
+[x] [X] Establishment of influencers program for visibility/coverage
+[ ] [ ] Creation of techship Podcast -> not possible as Robin and Albert don’t have time
+[ ] [ ] Creation of a dedicated Business Plan for Ocean Pearl -> postponed to next month
+[x] [X] Delivery of Sailors lounge interviews
+[x] [X] Medium Article translations
+[ ] [ ] Ocean Use case interviews (tbc)
+[x] [X] Meme repo & Chief Meme Officer
+[x] [X] Curation of local communities, notably in Bulgarian, German and Italian
+[x] [X] Admin Mod Telegram
+[x] [X] Admin Mod Discord
+[x] [X] Admin Mod Twitter (Ocean Ambassadors)
+[x] [X] Delivery of quarterly Ambassadors Keynote (Tech + Outreach)
+[x] [X] New ambassador members credentials checking / recruitment
+[x] [X] Overall management/operations: Captain’s Lounge, Tech & Outreach Ship",In Progress,27200,27200,0x582fFcaEF4174B3f92d418d192290Eb0a024c515,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmahjTNJXhu1Sn616SwFJvQ7WSsGb6Y3wudgNMcXjN9ZkQ,QmahjTNJXhu1Sn616SwFJvQ7WSsGb6Y3wudgNMcXjN9ZkQ,,,2522083,0
+Fair Data,Funded,6,Unleash Data,New Entrants,,Unreported,20000,1710,0x69BfecD31FE889c31F287DA108F63022CA2c1306,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmZbKQFtkuvta2fVXR1LEUmnXwmqyrN76Rrxkmu5oSDxGx,QmZbKQFtkuvta2fVXR1LEUmnXwmqyrN76Rrxkmu5oSDxGx,,,5547,0
+Posthuman AI,Funded,6,Build & Integrate,General,"Since the last DAO round, we’ve made major upgrades to our codebase, focusing on developing commercially useful variants of the models (DistilBERT and DistilGPT2) and algorithims that we shared earlier (with v1)- to accure value for Ocean holders and to enable corporate AI use-cases directly from Ocean Market.
+[x] [*] Developing Posthuman Market deployment for allowing a larger variety of models
+With Posthuman v1.2 we’ve developed and introduced an entirely new library of algorithms, under the title “QA-Commercial”. This is meant to interact with proprietary AI models (developed by Posthuman, LUCI, or other parties), to enable AI question-answering on 1000s of corporate documentation in a matter of seconds. Some of the key features of QA-Commercial:
+1. Integrates with DrQA library for ngram and TF-IDF shortlisting of paragraphs, which are then fed into the pipeline with a custom trained DistilBERT model for question answering on 1000s or even millions of pages of documents (instead of just 1 para, as enabled by Posthuman v1 models).
+2. Provides enterprise grade server capabilities for continuous question answering for upto 24 hours at a time. This includes not just a django server, but celery + redis worker allocation for load balancing, enabling rapid, parallel processing of multiple queries at the same time without any errors.
+In addition to QA-Commercial algorithms, we’ve also developed the following:
+1. DistilBERT is trained for question answering only on Wikipedia. We’ve produced two models by fine-tuning this model on:
+[x] [*] Engaging with AI partners LUCI to bring their enterprise AI to posthuman-
+A. Proprietary corporate data, including commercial, email, and customer service documentation, for a commercially valuable version of the model (LUCI). This combined with QA-Commercial Algos enables largescale question-answering on Corporate Documentation with never seen before accuracy.
+B. US Legal data - this allows models to read US law (including federal and state statutes, and judgements) to answer specific questions about the law.
+[We will not be sharing the model parameters here; instead we will directly post them on Ocean Market(Polygon) once the bugs mentioned in the progress report are resolved - allowing this model to potentially accure 100s of $k in value]
+[x] [*] Engaging AI companies by offering them a monetization oppourtunity; Onboarding next ~5 corporate customers. -
+4. We plan on initiating discussions with PacerPro , Datanomy and DeepC , to hopefully onboard them as users and/or providers of AI models on Posthuman Market. More collaborations to come.",Completed,27200,27200,0x21e06646433954aabace8e3d93d502e423249299,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmP6wsEBhaUfkZgDFV9q6EKgnypLeE7aQbsQNo3XAjZshy,QmP6wsEBhaUfkZgDFV9q6EKgnypLeE7aQbsQNo3XAjZshy,,,379969,217978
+DataUnion Foundation,Funded,6,Build & Integrate,General,[x] [X] What has been promised in this proposal has been delivered as we continued to push forward with our project between round 6 and 7.,Completed,27200,27200,0x655eFe6Eb2021b8CEfE22794d90293aeC37bb325,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmeuMAKVMU1eLk7hyEA5WjwuZCaL7ATwbKXpi9Vxp7PGZK,QmeuMAKVMU1eLk7hyEA5WjwuZCaL7ATwbKXpi9Vxp7PGZK,,,1749186,0
+Project Coral,Funded,6,Outreach,General,"[x] [x] Conference Workshops & Seminars
+Our team has presented at multiple conferences and hackathons, including the International Neuroinformatics Coordinating Facility Conference and the Organization for Human Brain Mapping.
+As part of this, we have conducted user research on token economies and the pain points for researchers working with cloud computing workflows. This information will help us perform user requirement design as we finalise our architecture for an application to support Decentralised Scientific Workflows.
+[x] [x] Training & Development
+The OceanDAO grant enabled us as a team to take part in Kernel Block III.
+Below are the deliverables for training and development:
+- Opscientia were chosen as one of the top projects to present in the Final Showcase.
+- We have also summarised our incredible experience in a blog.
+[x] [x] Google Summer of Code Project
+The OceanDAO grant directly supported mentorship for Google Summer of Code to work on open-source projects at the intersection of Open Science and Web 3.0.
+Below are the deliverables for the GSoC Project:
+- Kinshuk’s original GSoC project proposal for Decentralised storage of versioned BIDS datasets with IPFS, datalad and Ceramic
+- The blog post outlining Kinshuk’s work this summer with Opscientia and his work for GSoC - DAO Community Spotlight: Kinshuk Kashyap - Decentralized storage of versioned BIDS datasets with IPFS, datalad and Ceramic
+- Achintya’s original GSoC project proposal for Securing BIDS Neuroimaging Datasets Stored on Decentralized File Sharing Networks with Self-Sovereign DIDs and IPFS
+- The blog post outlining Achintya’s work this summer with Opscientia and his work as Opscientia’s first Open Web Fellow (made possible by OceanDAO) - Opscientia Community Spotlight: Opscientia Open Web Fellowship
+[x] [x] Hackathon Spree
+OceanDAO has helped us take part in multiple hackathons over the summer and this has resulted in Opscientia being rewarded for our work and helping spotlight the importance of open science to the wider Web3 and scientific communities.
+- The team took part in the ETHGlobal Web3Weekend hackathon to build a proof-of-concept of our Data Wallet. The next steps include building out the minimum viable product for scientists to use and test by the end of 2021.
+- Our blog post outlining our experience at the ETHGlobal Web3Weekend hackathon - Opscientia DAO Wins Multiple Awards at the EthGlobal Hackathon
+- The team also took part in the OHBM Brainhack 2021. Our GitHub issue explains our submission in greater detail
+- We gathered user-research feedback from 5 scientists at the OHBM Brainhack. From this, we validated current pain points around academia and data. We gathered initial feedback on our Data Wallet proof-of-concept and sourced questions and comments to flesh out our FAQ’s.
+[x] [x] Corporate partnerships with Neuroinformatics Consortia and to support the development of open-source toolkits for the neuroscience community
+- Our partnership over the summer with Google’s GSoC was a success.
+- We are continuing this work by drafting best practices for reproducible science and publishing the methods of how Web3 will help accelerate the improvement of those practices. This is an ongoing process and will help us develop functional, and user-first tools for scientists.
+[x] [x] Survey and quantitative metrics regarding attitudes toward the Data Economy, Ocean Academy, and Web 3.0
+- Further to the OHBM hackathon we carried out user-research in the community and have gathered 12 responses which have validated pain points, levels of understanding, and feedback on our vision. This further helped us to generate our FAQ’s and generate high-level user-requirements for the Opsciverse.
+[x] [x] Providing initial liquidity to publish the first neuroimaging dataset pool and applications for compute-to-data
+- This work is ongoing and initial steps have been taken to publish BIDS Apps and Shady’s brain  on the gaia-x testnet.
+[x] [x] Content creation
+- We have launched our blog page, please check it out to see what we are up to.
+- Walkthrough tutorials have been published on git-annex, DataLad and IPFS:
+- Demo: using git-annex with IPFS special remote
+- How to setup datalad with IPFS as remote storage
+- Our Dao Halls are now recorded and made available on our Youtube channel. Check out our latest one here. If you watch until the end you can hear Sarah’s candid review of it.
+",Completed,27200,27200,0x33359285f30e7b3386de70ca500f4fe27853765b,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmSfecRUpBysds8v334RkeSevvqb96cJe4Bdeo8e2mV2GT,QmSfecRUpBysds8v334RkeSevvqb96cJe4Bdeo8e2mV2GT,,,661756,0
+Longtail Financial,Not Granted,6,Unleash Data,New Entrants,,,18000,0,0x763d7D362B59aeA3858a92a302e18cd41b1252d4,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmdaiBbsVdUURjC9ijBdoKSCvYhZmX9K8DgmSoYjw2cMTm,QmdaiBbsVdUURjC9ijBdoKSCvYhZmX9K8DgmSoYjw2cMTm,,,29880,38030
+Unbanks.me,Down Voted,7,Build & Integrate,New Entrants,,,32000,0,0x663222814387E07B6E680fe3009083B7858db195,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmaTW2H5TuTNgCsZYFFEEDyqjCWRAQA5h7b8cwve4RGLX1,QmaTW2H5TuTNgCsZYFFEEDyqjCWRAQA5h7b8cwve4RGLX1,,,3046,109484
+Data Whale,Funded,7,Build & Integrate,General,"[x] [X] Finalized hiring of Blockchain development team under advisory of Tim Daub. We are confident that this all-star team will be able to solve our R3 challenges and finalize ALGAs Phase 2.
+1. https://www.youtube.com/watch?v=rf6VRBlpdWg
+[x] [X] Finalized the development of new dataset according to community request. Micro-cap IDO will be launched together with Ocean Market v4.
+1. image
+2. https://twitter.com/realdatawhale/status/1425183953036644352?s=20
+3. https://github.com/oceanprotocol/market/pull/742 1
+4. https://youtu.be/HVDCkVxc8JY 1
+[x] [X] Outreach initiatives continued on YouTube and Twitter. Surpassed 100 subscribers on YouTube, acquired custom YouTube URL, helping with listing of Data Token specific channel.
+Twitter reach as follows.
+Screen Shot 2021-08-10 at 4.42.45 PM
+
+[x] [X] RugPull-Index integrated, Directory Data Token Analysis Dashboard updated.
+1. https://twitter.com/realdatawhale/status/1422568683944173568?s=20
+2. https://twitter.com/realdatawhale/status/1415745636264071169?s=20
+[x] [X] We faced delays and challenges in finding a suitable Blockchain development team with adequate React Native experience since our R7 proposal in July. Therefore, we decided to develop additional functionalities for ALGA. meanwhile. These functionalities were not presented in any of our past proposals and the development cost has been covered by partial funds received in R7. Therefore, our initial deliverable of creating a fully integrated Web3 dApp with Data Token wallet and trading functionality may require additional funding and the process will be recorded here: https://bit.ly/3yPZQRc. The below functions have been developed.
+- Backup Here: https://www.youtube.com/watch?v=Jef-tqYpAXc
+- Download Test-Version on Android here: https://drive.google.com/file/d/198HCoz8D_JSfgwuUOru22XoSDxwxFGxC/view?usp=sharing
+1. Improvement of Signup & Profile Creation, via Mobile Authentication (Twilio)
+2. Improved backend data gathering.
+3. Implemented “My Watchlist” Section on the Home Screen
+4. Removed fixed price assets from ALGAs data gathering and INDEX tab, focused on Data Token Pools to ramp up for trading functionality in Phase 2.
+5. General improvements on visualization (Spelling, Decimal Points etc.)
+[x] [X] In addition to the functionalities highlighted in this proposal, we have also directed funds to re-design the entire UI/UIX of ALGA, with the vision of creating a world-class mobile dApp for Data Tokens. This activity was not proposed in previous rounds. We hope you like the design and appreciate your feedback! We have also designed a dark-mode as outlined before 
+1. Check this out!: https://twitter.com/realdatawhale/status/1430189372570325001?s=20
+
+926×1600 106 KB
+924×1600 93.9 KB
+918×1600 109 KB
+922×1600 99.3 KB
+926×1600 36.1 KB
+902×1600 90.5 KB
+",Completed,32000,32000,0xbbd33AFa85539fa65cc08A2e61a001876D2f13FE,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmW6oVvXEP7CKEErdhSqbGknVPwsCByESL3aHtFEzjMDdz,QmW6oVvXEP7CKEErdhSqbGknVPwsCByESL3aHtFEzjMDdz,,,1166886,0
+DataUnion Foundation,Funded,7,Build & Integrate,General,[x] [X] What has been promised in this proposal has been delivered as we continued to push forward with our project between round 7 and 8.,Completed,32000,32000,0x655eFe6Eb2021b8CEfE22794d90293aeC37bb325,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmewLHnF4DG7nxopMsyfxg3foYbqPSoFcSBhCiAVWL3EYT,QmewLHnF4DG7nxopMsyfxg3foYbqPSoFcSBhCiAVWL3EYT,,,1040710,470103
+DataX,Funded,7,Build & Integrate,New Entrants,"[x] [Done] datax.js library that supports datatoken <> OCEAN and datatoken <> datatoken swaps with smart routing built-in to find pools with best price.
+
+datax-npm
+
+Datax.js has been published in npm - https://www.npmjs.com/package/@dataxfi/datax.js 1
+[x] [Done] Non-custodial Router smart contract which allows to interact will different datapools in a single tx (thereby saving gas fees)
+
+router-contract
+
+
+Router contract has been created and being tested upon. We were able to successfully swap DT - DT so we can confidently say its working
+[x] [Done] Webapp UI (like uniswap or sushiswap) using React.js, web3.js and integrated with Metamask so users can use above features in a convenient way
+
+datgax-ui-2
+
+
+datax-ui-1
+
+
+UI is being actively integrated with datax.js and Router contract to provide seamless UX.
+Additional achievements not mentioned in proposal
+- We revamped the branding completely and created a new landing page to reflect with our current offering. New landing page can be found at https://datax.fi
+
+datax-landing-page
+
+
+- Created and published a unified datatoken list in IPFS for anyone to use in their dapps. This list follows standard tokenlist.org format so can be used by other DEXs like Uniswap, Balancer etc. if they choose to. Hopefully this will bring additional eyes on datatokens and help adoption.
+Datatoken List
+- We also forked Ocean.js and updated it to allow trading, buying, selling without restrictions. Now Dapps can have option to choose from 2 versions of Ocean.js to integrate in their dapps. Since we are using it in datax.js, we will try to maintain it.
+
+oceanjs-forked
+
+
+
+Forked and customised Ocean.js is published in npm registry for anyone to use and can be found here",Completed,32000,32000,0xeFB850EA4963Eb6d1A914D4Eb0b114026da51623,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/Qmaofa7FWkb7QjVkBVksxFohWt9qawi89JHUjj7iHBpPHk,Qmaofa7FWkb7QjVkBVksxFohWt9qawi89JHUjj7iHBpPHk,,,1130084,0
+Project Coral,Not Granted,7,Outreach,General,,Completed,32000,0,0x33359285F30E7B3386dE70ca500F4fe27853765B,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmY1Y875sHYG89DMDwzg6H6zJtJyxYnYdmGSLbC41vv7hd,QmY1Y875sHYG89DMDwzg6H6zJtJyxYnYdmGSLbC41vv7hd,,,171298,0
+Nano Sensor Powered Smart Cities,Funded,7,Unleash Data,New Entrants,,Unreported,32000,32000,0x53CB14af00560E779baCa9A662F6213dC573B906,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmY1EsTDGcVv2Q2gVPYvkJCxc8XnGY1YFeiXp4371FwqBq,QmY1EsTDGcVv2Q2gVPYvkJCxc8XnGY1YFeiXp4371FwqBq,,,629705,385784
+Clean Docs,Funded,7,Core Software,General,"[x] [x] Create Marketplace tutorials for Staking, Publishing, Consuming
+- https://docs.oceanprotocol.com/tutorials/marketplace-introduction/
+[x] [x] Create v4 docs (The pull request will be merged after v4 release)
+- https://github.com/oceanprotocol/docs/pull/780
+[x] [x] Create deployments page
+- https://docs.oceanprotocol.com/concepts/deployments/
+[x] [x] New search feature
+- https://docs.oceanprotocol.com/search
+[x] [x] Bug fixes, upgrades, Maintenance
+- https://github.com/oceanprotocol/docs/issues/764
+- https://github.com/oceanprotocol/docs/issues/756
+- https://github.com/oceanprotocol/docs/issues/755
+- https://github.com/oceanprotocol/docs/issues/716
+- https://github.com/oceanprotocol/docs/issues/701
+- https://github.com/oceanprotocol/docs/issues/697
+- https://github.com/oceanprotocol/docs/issues/691
+",Completed,12000,12000,0x1d4df77B21a54A30735E18512613CfB87D83A8Ce,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmSpmyLQAHqdhHzJkxUCaMGas5d1MipKp5EiypmEXfw3ce,QmSpmyLQAHqdhHzJkxUCaMGas5d1MipKp5EiypmEXfw3ce,,,1630643,0
+Datapeek,Not Granted,7,Unleash Data,New Entrants,,,32000,0,0xF40b005FFE2Db0197b8c301e1C966C2cb3B59A08,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmNR8aNXrP5NV6GBCtV7eNCiKW5c3rMmrFX8dHKSyo7zL2,QmNR8aNXrP5NV6GBCtV7eNCiKW5c3rMmrFX8dHKSyo7zL2,,,342884,0
+RugPullIndex,Funded,7,Build & Integrate,General,"[x] [x] Deploy full node (erigon ) to scale up and improve on-chain crawling
+[x] [x] Merkelize account tree in honeybatcher to allow gas-efficient deposits and withdrawals. I ended up looking into this but then decided to not pursue further as it'd blow up scope of the project dramatically. I've done the research and I've found an open source library that merkelizes the account tree. See the implementation of LeapDAO: https://github.com/rugpullindex/awesome-ethereum-rollups#merkle-trees
+[x] [x] Improve API incrementally (automate account creation, add more endpoints): partially, we added Erigon node on API
+[x] [x] Refine RPI market positioning & branding through user research
+[x] [x] Implement feedback from last months user research
+[x] [x] For our API customers, we released a new product: A shared API to an Ethereum Erigon full node.
+[x] [x] We spent some time on distribution/sales and making our website look more professional. A detailed update is in our blog.
+[x] [x] We improved the accuracy of our Gini coefficient calculation.
+[x] [x] We’ve implemented more JSON-RPC methods in eth-fun (eth_call). There’s interest from the ETH community.
+[x] [x] We’re consulting ﻿Unknown﻿ during their technical hiring process.
+[x] [x] We’re gradually scaling our operations. There are now two people working on the project; maybe there’ll be three soon? We’ve started an RPI handbook to improve scalability.
+[x] [x] We published a market positioning analysis 1 to inform future branding and UI updates to RPI. The analysis also looks at comparable index tokens and smart contract products to understand how the RPI data token index product will relate to the existing RPI (data insights) product.
+",Completed,22400,22400,0x005241438cAF3eaCb05bB6543151f7AF894C5B58,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmaY7dEFGU2KRMCp2PFCJfCMx6YsNRmjZ27ruS8MDL7MCv,QmaY7dEFGU2KRMCp2PFCJfCMx6YsNRmjZ27ruS8MDL7MCv,,,2216437,0
+Onshore Ocean,Funded,7,Build & Integrate,New Entrants,"[x] [ x ] Medium articles > tutorial implemented in jupyter hub notebooks
+http://164.90.253.88/ please use dummy credentials u: abc pw: abc
+[x] [ x ] Long Term Roadmap here: https://www.canva.com/design/DAEltPtZks0/uchkZSik3Rmqvmi4_fbjSw/view?utm_content=DAEltPtZks0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#1
+[x] [x] Proof of conecept Jupter Notebooks: http://164.90.253.88/ > please use dummy credentials u: abc pw: abc",Completed,32000,29600,0x7af50AE9F5c72e917Fa020F406b23F0b2B685437,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmVdUt2A9yLGnU9uxxGgkukSH9x2GVwFgiKiu2NKa84T9J,QmVdUt2A9yLGnU9uxxGgkukSH9x2GVwFgiKiu2NKa84T9J,,,399309,55691
+Local Network Egress Traffic,Funded,7,Core Software,New Entrants,"[x] mPowered is proud to announce that we have completed Milestone #1 of our Proposal.
+GitHub Repo for Milestone 1 2
+GitHub Repo - Code Base Link 1
+
+[x] mPowered is proud to announce that we have completed Milestone #2 of our proposal and finished our commitment for Round 7. We’ve even added an SSH bridge for improved security.
+GitHub Repo for Milestone 2 2
+We’ve also created a Video Link 1
+
+
+[x] These tasks have been completed.
+The pull request was done on August 23, 2021 and was merged on September 1, 2021:
+github.com/oceanprotocol/docs
+
+mPowered round7
+oceanprotocol:main ← oceanprotocol:mPowered-round7
+opened  Aug 23, 2021
+ corrie-sloot
+
++161 -14
+Our documentation can also be found here:
+ docs.oceanprotocol.com",Completed,25000,25000,0xF49A4ba03f69eEf2366303e64Fc7b3a33d3f0043,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/Qmapvd5dcfGSweY7NUpj2yxvafGbBDPCP16EV4p2AyUsWf,Qmapvd5dcfGSweY7NUpj2yxvafGbBDPCP16EV4p2AyUsWf,,,402946,0
+Algovera,Funded,7,Unleash Data,General,"[x] [X] Blog post published at https://medium.com/@richardblythman/onboarding-ai-startups-from-web2-to-web3-923b3e0f744b
+[x] [X] Shortlist of 10 startups with interest shown in becoming prospective test cases for Web3 business models and technologies. Please reach out for this list.
+[x] [X] 2 letters of intent (LOIs) from potential customers. Please reach out for these signed letters.
+[x] [X] Continued brainstorming on token-based AI collaboratory ecosystem
+",Completed,32000,32000,0x36f741F4808a329C9E876F551Bcf337B7dDc54Ff,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYyTTV6TpHEeXkXV2fRtpbmHvGBjSWBJb3ippbTqrYeSc,QmYyTTV6TpHEeXkXV2fRtpbmHvGBjSWBJb3ippbTqrYeSc,,,871519,613425
+Ocean Pearl,Funded,7,DAO,General,"Milestone 2: Enhance current functionality 
+
+
+[x] [x] integrate API to fetch data from Airtable
+    - [x] Update Round metrics to R7 data
+    - [x] show real-time round metrics and votings
+[x] [x] add missing data regarding past fundings
+    - [x] fixes the got funded with 0 OCEAN bug
+[x] [x] upload and show project images and logos
+    - [x] define workflow to receive images and logos from projects ( => workflow is defined, feature will soon be deployed, login via metamask to update projects)
+    - [x] setup cloud-storage + CDN
+[x] [x] add filter-options for proposal overview
+    - [x] filter by round
+    - [x] filter by category
+    - [x] search by project name
+[x] [x] add design for project-detail pages without images
+    - [x] create Design
+    - [x] implement Design
+[x] [x] improve project-sharing
+    - [x] add more human readable project links
+    - [x] Open Graph preview for projects
+See the current version on oceanpearl.io (another major realease will follow soon)",Completed,23000,23000,0xe6E3459bA0d70699F54464cc4b5d273810E7EC7B,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/Qmb5XHQWa9f2J8hRWKYsLv7nZk9tghQE6ABdc7TZ4XYgUN,Qmb5XHQWa9f2J8hRWKYsLv7nZk9tghQE6ABdc7TZ4XYgUN,,,1775673,3793
+Ocean Ambassadors,Funded,7,DAO,General,"[x] [X] Final Ocean Ambassadors Branding
+[x] [X] Hosting, development, and ongoing support for the Ocean Ambassador Website
+[x] [X] Establishment of influencers program for visibility/coverage
+[ ] [ ] Creation of techship Podcast - not possible as Albert and Robin do not have the available capacity
+[x] [X] Creation of a dedicated Business Plan for Ocean Pearl
+[x] [X] Delivery of C2D dashboard
+[ ] [ ] Delivery of Sailors lounge interviews - not possible as OceanJim disappeared
+[x] [X] Medium Article translations
+[ ] [ ] Ocean Use case interviews (tbc)
+[x] [X] Meme repo & Chief Meme Officer
+[x] [X] Curation of local communities, notably in Bulgarian, German and Italian
+[x] [X] Admin Mod Telegram
+[x] [X] Admin Mod Discord
+[x] [X] Admin Mod Twitter (Ocean Ambassadors)
+[x] [X] New ambassador members credentials checking / recruitment
+[x] [X] Overall management/operations: Captain’s Lounge, Tech & Outreach Ship",In Progress,32000,32000,0x582fFcaEF4174B3f92d418d192290Eb0a024c515,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmY9uYyxmQs1Q4nysKyu29k75iwzq6e8KRVaCtroCoXSdw,QmY9uYyxmQs1Q4nysKyu29k75iwzq6e8KRVaCtroCoXSdw,,,1638912,0
+Resilient ML,Down Voted,7,Unleash Data,General,"[x] [X] 1. Improved and extended python code for automatic scraping of the websites (Cryptodaily, Cryptoslate), and extended the news sources (Coindesk), and set of assets and news topics covered from 5 to 23.
+[x] [X] 2. Developed storage solution in Box to automatically construct and store weekly dataset updates.
+[x] [X] 3. Finished 2 academic papers and started 1 – all of which included the dataset published on the Ocean Market.
+- Sentiment model paper sent to peer review: (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3742063). Once paper is accepted we will write a Medium article providing an executive summary of the paper and data utilised (note review process is 6-12 months).
+- Published paper in PloS ONE, utilising sentiment data f or COVID-19, which will be available on the Ocean Market as a future dataset. (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253381)
+- Submitted an invited executive summary of the COVID-19 paper to a journal in the pharmaceutical community to increase awareness for NLP usages and the data economy.
+[x] [X] 4. Started academic paper on utilising price and technology factors at different time scales to forecast market sentiment (submitted for review).
+[x] [X] 5. Presented the On-Chain analytics paper to Women in Data Science Conference in London (2021), raising awareness on blockchain technologies and the data economy.
+[x] [X] 6. Posted on LinkedIn to increase awareness of our work and promote the data economy.
+[x] [X] 7. Monthly summary of dataset growth:
+- Start: 2017 – end of April 2021: 13127107 tokens
+- end of May 2021: 13463311 tokens
+- end of June 2021: 13627931 tokens
+- end of July 2021: 13760124 tokens
+- middle of August 2021: 13830419 tokens",Completed,32000,0,0x4D4290CBA904aBb4dFbc1568766bCD88e67Be391,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmUGfMS4Qm3E8VufxaKXkZtwLVRaLFv5WEeiogoAP1eWKz,QmUGfMS4Qm3E8VufxaKXkZtwLVRaLFv5WEeiogoAP1eWKz,,,167044,385784
+TokenSPICE,Funded,7,Core Software,New Entrants,"[x] Live presentation of oceanSPICE at the TE Balancer Simulations - Final Presentations event:
+
+Balancer Simulations - Final Presentations",Completed,32000,32000,0x95044Ce3bA6fbc3d40d368351b993fb35253DE4D,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmPot4TCsK2Q9nnYfy4jTTTPtkVeAFk5EFw2htCN6jFXJM,QmPot4TCsK2Q9nnYfy4jTTTPtkVeAFk5EFw2htCN6jFXJM,,,950871,826504
+Ocean Academy,Funded,7,Outreach,General,,Unreported,32000,32000,0x5cFDBd9150596b790AAe28e003EFfac9f29081F9,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/Qmeaq99gBa7aikfsPTduxh83SucvgRz2mwK7vY1BiJsy8t,Qmeaq99gBa7aikfsPTduxh83SucvgRz2mwK7vY1BiJsy8t,,,2042844,0
+Evotegra,Not Granted,7,Unleash Data,General,,Completed,28000,0,0x61B15998893cC746B46C08FEdEE13a0d1b33bBa9,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmSkanzUztfCmvuRsSMFiwPfP8FrvmiXDSYvwR3mP3TE4g,QmSkanzUztfCmvuRsSMFiwPfP8FrvmiXDSYvwR3mP3TE4g,,,292418,100000
+Cluster Finance,Funded,7,Build & Integrate,New Entrants,,Unreported,32000,32000,0xcAADbCb7cF04f08c222Cd0ee07Beca405cc6F6E4,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmZ5znMKi1zonXhEKPymELo2aU44GNCJCJqwV99yJZQduC,QmZ5znMKi1zonXhEKPymELo2aU44GNCJCJqwV99yJZQduC,,,709070,0
+Solipay,Down Voted,7,Unleash Data,General,,Unreported,32000,0,0x748C597E4cD11D6514DBF76EfE458Db290aa4b3d,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/Qmd3oyjwodBQsrcgQzRogmDaNGbRpGxRWq7kEZ5ci6xUtJ,Qmd3oyjwodBQsrcgQzRogmDaNGbRpGxRWq7kEZ5ci6xUtJ,,,52661,385784
+Posthuman AI,Down Voted,7,Build & Integrate,General,,Completed,32000,0,0x21e06646433954aabace8e3d93d502e423249299,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmXG2SY2jdEdXMCAyM66iRGRGaLjdLzWXxKQMoKQ9sQ1KP,QmXG2SY2jdEdXMCAyM66iRGRGaLjdLzWXxKQMoKQ9sQ1KP,,,74217,668002
+RAZ Finance,Not Granted,7,Build & Integrate,New Entrants,,,32000,0,0xf8388c804061d08b757BAef8d9bB5f9eF8BA90D1,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmWUc4T4ZaZCAP9H9qkiiVeQ8J6LEHLmc4eNciUk69tNXo,QmWUc4T4ZaZCAP9H9qkiiVeQ8J6LEHLmc4eNciUk69tNXo,,,78871,0
+Ocean Missions,Granted,8,Outreach,General,"Project updates:
+[x] I have identified 4 categories of Data providers 1 that feed data into Ocean Protocol and will use this as the foundation for my data onboarding approach.
+[x] I have identified characteristics which I believe make Data providers attractive for Ocean Markets and will use this to help segment the market of ‘potential data providers’ to the ones that are likely to be attractive to Ocean Markets.
+
+//
+[Deliverable Checklist]
+
+[x] [x] Create relevant advertising material (i.e. ads &/or articles &/or landing pages) - Complete, see Ocean Missions. The above post provides more detail on this deliverable.
+[x] [x] Create and run ad campaign - The advertising content has been created (website and posts above) however I had both Linkedin & Twitter accounts suspended shortly after publishing see post 1. TO DO: I have $3k left to allocate to twitter ad campaign once account is cleared (expected w/c 4 Oct).
+[x] [x] Collect and share key performance metrics as part of proposal ‘wrap up’. - Complete see post
+
+",Completed,28302,28302,0x86307df93c38C9A8C5E7E7bd40734Ab522e393Fb,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYYY8ywphp33nNpDtqgyHWvo5wAoKLKNX1qgUrmVeEBfP,QmYYY8ywphp33nNpDtqgyHWvo5wAoKLKNX1qgUrmVeEBfP,,,179499,57550
+Alternate Future Summit,Down Voted,8,Outreach,General,,Unreported,0,0,0x48E13Ab513A0d26f921707ad4F38989e2C587f25,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYnGX6pKjrazF4EuJBYV2ecAkPG2WrbW2gYqKncFdEEM8,QmYnGX6pKjrazF4EuJBYV2ecAkPG2WrbW2gYqKncFdEEM8,,,371643,885073
+Ocean Vantage,Funded,8,Build & Integrate,General,,Unreported,33208,33208,0x630cc8ffc2041b7C3E85892e2052b89BCC790454,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmPNrjq6hxoSNGUzXfC2khUgRVaRZuRmoMYJaWGdj5vvgz,QmPNrjq6hxoSNGUzXfC2khUgRVaRZuRmoMYJaWGdj5vvgz,,,707088,0
+HealthLink,Funded,8,Outreach,New Entrants,"'- Deliverable 1 - Initial clinical review using PRISMA approach completed for blockchain public health applications completed and published 1 with our collaborators. Next up: deep dive review over specific clinical applications and key network principles based on the OCEAN values.
+- Deliverable 2 - Conference event confirmed for 20 November Saturday with blockchain segment from 5pm-8pm (Singapore Time). Next up: details regarding talks and speakers to be updated in the conference portal here.
+We have progressed quickly on the grant deliverables and in the process, engaged prospective clinical partners with an interest to support adoption of an onboarding funnel for primary care health data targeting the detailed ROI calculation. A user flow and scoping exercise is ongoing and we will be putting forth a collaborative proposal at the next OceanDAO funding round to develop and test the minimum viable product (MVP).
+[Deliverable update]
+[x] [X] Published 1 PRISMA scoping review of public health applications. Deep dive review to follow.
+[x] [X] Confirmed upcoming conference on 20 November Saturday with blockchain segment from 5pm-8pm (Singapore Time)",Completed,33019,33019,0x38845da5933dfd2b218c921fc39eb80968d13127,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmdUXzXLnumwWNpT5DQMoaHjyCLv2jkeKFo3hvVMY7QHqe,QmdUXzXLnumwWNpT5DQMoaHjyCLv2jkeKFo3hvVMY7QHqe,,,426300,6030
+DataUnion Foundation,Down Voted,8,Build & Integrate,General,,Completed,0,0,0x655eFe6Eb2021b8CEfE22794d90293aeC37bb325,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmRG3Yhx7JHhB5Qbz9DNNVZMpw8T17UbJs553UY9bUBsCK,QmRG3Yhx7JHhB5Qbz9DNNVZMpw8T17UbJs553UY9bUBsCK,,,1501294,2690453
+Datapeek,Down Voted,8,Unleash Data,New Entrants,,,0,0,0xF40b005FFE2Db0197b8c301e1C966C2cb3B59A08,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmZW53bwkKmeqhYxHS2q9xxNXmmE2EUJ54kyKYsGKTChKK,QmZW53bwkKmeqhYxHS2q9xxNXmmE2EUJ54kyKYsGKTChKK,,,299105,586711
+RAZ Finance,Funded,8,Unleash Data,New Entrants,"Update 1:
+
+[x] Grant Deliverable 1
+*** Impact, ESG and sustainability datasets traded on the Ocean Market**
+Progress update:
+Our first early adopter projects: Roshem Impact, a Certified B Corporation, and two companies working towards B Corp certification: Maven Hemp and Shah Hemp, have consented to making their data available on the Ocean Market. We expect our first datasets to be published in September 2021, earlier than originally planned for March 2022 and in alignment with the 90-day project timeline. For datatokens will be associated to product data, Maven Hemp is participating in the groundbreaking Radicle ACES trial for CBD products https://radiclescience.com/resources/radicle-science-spotlight-maven-hemp and product data will include publishable results from the scientific study.
+The Ocean Protocol logo, introductory details and information about the grant have been added to the RAZ Finance Information Deck: https://razfinance.net/wp-content/uploads/2021/08/RAZ-Finance-Information-Deck-v05-August-2021-COMPLETE-2-1.pdf
+Network Partners Page: https://razfinance.net/partners/
+Platform Partners Page: https://razfinance.io/partners/
+
+@AlexN and @kaimeinke we are awaiting feedback from the DAO to onboard companies and achieve the following: Cross-promotion of Ocean DAO members actively measuring and managing their impact, sustainability and ESG data.
+
+
+[x] Grant Deliverable 2
+RAZ Network membership revenue generated via OCEAN
+The ability to make network membership, impact measurement and management, as well as platform customization and licensing payments via OCEAN was integrated on September 1st 2021
+
+IMG-5113.PNG
+
+[x] Grant Deliverable 3
+Integrated Impact-Financial Datasets Traded on the Ocean Market
+Progress Update: Our goal is to trade data from 3-5 investment funds and 8-10 mission driven companies.
+Between August 9th and August 31st, we onboarded the following:
+Investment Funds: Syzygy Impact and GreenTech
+Mission-Driven Companies: Maven Hemp, Shah Hemp, Ramprate, CMore
+Therefore, we are almost halfway to our target and are aiming to onboard 1-3 more investment funds, and 4-6 more mission-driven companies within the next 60 days as part of our project goals.
+
+
+/------/
+
+Update 2:
+
+[x] Grant Deliverable 1
+*** Impact, ESG and sustainability datasets traded on the Ocean Market**
+We will be making data available from our first early adopter projects, including those with Roshem Impact, a Certified B Corporation, and two companies working towards B Corp certification: Maven Hemp and Shah Hemp, available on the Ocean Market.
+Update: Data will be verified through “proof of existence” and digital signatures stored on the Cardano blockchain to facilitate traceability, security, and make it possible for progress to be tracked through a public ledger. Additional data will be sourced from companies, organizations and initiatives that utilize the RAZ platform to apply for calls for proposals published by the RAZ DAO community. Our progess will increase engagement and make the “impact in action” dataset more robust and reliable.
+RAZ Finance is a Crypto AM Awards nominee in the Environment, Social and Governance category 1. The support of the Ocean DAO community in relation to our project has been published on all RAZ social media channels: LinkedIn, Twitter and Instagram.
+[x] Grant Deliverable 2
+- RAZ Network membership revenue generated via OCEAN
+The RAZ Network https://raznetwork.net and individual data management platforms https://razfinance.io will be made available to members, asset managers and companies via OCEAN currency. We expect that approximately 30% of our expected platform revenue can take place via OCEAN. As such, revenue from the project itself will generate 0.2% return to the Ocean DAO ecosystem.
+Update: Our main platform will be accessible to any $RAZ token holder. Customized platforms for individual companies and initiatives will be a paid feature as part of due diligence and impact-financial data verification processes. As such, our revenue stream has expanded from the initial membership-based model, to a feature-driven model that will make it possible for a larger number of companies, as well as nonprofits, to access RAZ.
+[x] Grant Deliverable 3
+- Integrated Impact-Financial Datasets Traded on the Ocean Market
+Data collected from early adopters: 3-5 impact investment funds and 8-10 mission-driven companies Verified impact and financial datasets linked to Ocean ERC20 datatokens
+Update: Our initial model was based on the engagement of a small group of initial early adopters. We have since transitioned to an open platform model that makes it possible for our DAO community to access RAZ, while paid features are customized for business and nonprofit use cases. Our DAO community is launching “calls for proposals” in specific impact areas, including “Regenerative Innovation: Wellness, Agriculture and Production” as well as “Ocean Impact”. Our DAO will be voting on which projects to fund as a result of these calls. Companies will be utilizing RAZ to provide data on their impact and financial performance to qualify for funding and list their opportunities on our platform. As such, we will be casting a wider net that will allow us to collect data faster and more efficiently. Revenue from the trading of data as part of our Ocean Market datapools will go back to the RAZ DAO treasury to be deployed to winning proposals, therefore this creates more incentivization for companies to participate and provide data. This process overcomes an early-stage challenge we experienced related to how to incentivize companies to consent to their data being traded as part of an Ocean Market pool.
+
+
+/------/
+
+Update 3:
+
+
+[x] Grant Deliverable 1
+*** Impact, ESG and sustainability datasets traded on the Ocean Market**
+“Impact in Action” is published on the Ocean Market.
+
+
+[x] Grant Deliverable 2
+- RAZ Network membership revenue generated via OCEAN
+Our project has progressed so that the RAZ Finance Network and Impact-Financial Data Management Platform are now one community platform and DeFi project.
+
+83452
+946×1600 351 KB
+
+
+We’ve started adding gamification features to our razfinance.io community platform. We are now able to track cross-project progress, and reward individuals with reputation scores that reflect their contributions. Profiles feature each project an individual is involved in. Projects will be ranked based on their progress in achieving specific economic, environmental, social and governance outcomes. Project Owners will be able to control access to their versions of the platform, and enable stakeholder engagement either on a private, community or public level
+
+[x] Grant Deliverable 3
+- Integrated Impact-Financial Datasets Traded on the Ocean Market
+Decentralized Impact | Finance | Evolved is published on the Ocean Market",Completed,33208,33208,0xf8388c804061d08b757BAef8d9bB5f9eF8BA90D1,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmbDuXV2nKVLhjz3RuJcRsR7W2e5QXkjboiyYufcSCqj7C,QmbDuXV2nKVLhjz3RuJcRsR7W2e5QXkjboiyYufcSCqj7C,,,540309,100625
+Project Coral,Funded,8,Outreach,General,"[x] [x] Conference Workshops & Seminars
+Our team has presented at multiple conferences and hackathons, including the International Neuroinformatics Coordinating Facility Conference and the Organization for Human Brain Mapping.
+As part of this we have conducted user-research on token economies and the pain points for researchers working with cloud computing workflows. This information will help us perform user requirement design as we finalise our architecture for an application to support Decentralised Scientific Workflows.
+[x] [x] Training & Development
+The OceanDAO grant enabled us as a team to take part in Kernel Block III.
+Below are the deliverables for training and development:
+- Opscientia were chosen as one of the top projects to present in the Final Showcase.
+- We have also summarised our incredible experience in a blog.
+[x] [x] Google Summer of Code Project
+The OceanDAO grant directly supported mentorship for Google Summer of Code to work on open-source projects at the intersection of Open Science and Web 3.0.
+Below are the deliverables for the GSoC Project:
+- Kinshuk’s original GSoC project proposal for Decentralised storage of versioned BIDS datasets with IPFS, datalad and Ceramic
+- The blog post outlining Kinshuk’s work this summer with Opscientia and his work for GSoC - DAO Community Spotlight: Kinshuk Kashyap
+- Achintya’s original GSoC project proposal for Securing BIDS Neuroimaging Datasets Stored on Decentralized File Sharing Networks with Self-Sovereign DIDs and IPFS
+- The blog post outlining Achintya’s work this summer with Opscientia and his work as Opscientia’s first Open Web Fellow (made possible by OceanDAO) - DAO Community Spotlight: Achintya Kumar
+[x] [x] Hackathon Spree
+OceanDAO have helped us take part in multiple hackathons over the summer and this has resulted in Opscientia being rewarded for our work and helping spotlight the importance of open science to the wider Web3 and scientific communities.
+- The team took part in the ETHGlobal Web3Weekend hackathon to build a proof-of-concept of our Data Wallet. The next steps include building out the minimum viable product for scientists to use and test by the end of 2021.
+- Our blog post outlining our experience at the ETHGlobal Web3Weekend hackathon - Opscientia DAO Wins Multiple Awards at the EthGlobal Hackathon
+- The team also took part in the OHBM Brainhack 2021. Our GitHub issue explains our submission in greater detail
+- We gathered user-research feedback from 5 scientists at the OHBM Brainhack. From this we validated current pain points around academia and data. We gathered initial feedback on our Data Wallet proof-of-concept and sourced questions and comments to flesh out our FAQ’s.
+[x] [x] Corporate partnerships with Neuroinformatics Consortia and to support development of open source toolkits for the neuroscience community
+- Our partnership over the summer with Google’s GSoC was a success.
+- We are continuing this work by drafting best practices for reproducible science and publishing the methods of how Web3 will help accelerate the improvement of those practices. This is an ongoing process and will help us develop functional, and user first tools for scientists.
+[x] [x] Survey and quantitative metrics regarding attitudes toward the Data Economy, Ocean Academy, and Web 3.0
+- Further to the OHBM hackathon we carried out user-research in the community and have gathered 12 responses which have validated pain points, levels of understanding, and feedback on our vision. This further helped us to generate our [FAQ’s](LINK NEEDED) and generate high level user-requirements for the Opsciverse.
+[x] [x] Providing initial liquidity to publish the first neuroimaging dataset pool and applications for compute-to-data
+- This work is ongoing and initial steps have been taken to publish BIDS Apps and Shady’s brain  on the gaia-x testnet.
+[x] [x] Content creation
+- We have launched our blog page, please check it out to see what we are up to.
+- Walkthrough tutorials have been published on git-annex, DataLad and IPFS:
+- Demo: using git-annex with IPFS special remote
+- How to setup datalad with IPFS as remote storage
+- Our Dao Halls are now recorded and made available on our Youtube channel. Check out our latest one here. If you watch until the end you can hear Sarah’s candid review of it.
+",Completed,33208,33208,0x33359285f30e7b3386de70ca500f4fe27853765b,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmNeTLhDcsnKz77AwfFfTAFhQpe5qn1TKkYLx3fPk4pi4V,QmNeTLhDcsnKz77AwfFfTAFhQpe5qn1TKkYLx3fPk4pi4V,,,1703797,0
+Resilient ML,Funded,8,Unleash Data,General,"[x] ResilientML will vastly expand our current dataset (TASPEL) on the Ocean marketplace.
+In this regard, we have added the following new sources of text and articles: Ocean Blog, Coin Telegraph to complement the existing sets of news information from Crypto daily, crypto slate and coindesk. These will be ongoing new sources of text data that we are continuing to grow our dataset with and provide feature libraries.
+[x] We will publish a new dataset to provide the extracted Semantic features, such as bag-of-words, matrix factorization - deep learning-based word embeddings, as shown in Stage 2 the Value-Add Pipeline (VAP)
+In this regard, we have written the python code to produce more advanced feature sets and we have scoped the JSON data format we will utilise to present these to the market. So far we have been creating spectral features and matrix factorisations for Document-Word matrics and Document-Document, and Word-Word matrices. These will be uploaded in our JSON market files as they are processed.
+[x] Maintenance and data support for data buyers.
+The data is continuing to be updated on a weekly rolling basis. Furthermore, we have created a python application that will be hosted and run from streamlit that will allow users to interact with the summary features of our data library and feature libraries. This will show case a detailed analytics dashboard to provide clarity to the market on exactly the size of our data and feature library, the content by topic, by token and by new source. We will continue to maintain and update this new hosted analytics tool to also provide sentiment and other analytics to do with authors and news source decompositions.
+[x] Submit academic research paper to journal
+We have submited a journal paper to a leading computational econometrics journal i which we study using our data set and a new class of time-series and Deep learning models the relationship between price, technology factors such as hash rate and sentiment constructed from our market place data. This journal is currently in peer review and once accepted we will be able to also release the preprint version to the community along with github repository for the code which we will enhance and turn into a compute-to-data module in future once peer reivew is complete. This is a quite advanced time-series model that include Autoregressive distribute lag structure, Mixed data sampling MIDAS structure and transformed Deep Neural Networks integrated into a long-memory analysis of how price influences sentiment in the crypt setting.",Completed,33208,33208,0x4D4290CBA904aBb4dFbc1568766bCD88e67Be391,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmbeuWcjMqs4UirVgwnZyGNuvPGfBfE1e3oZZ3fGoNs6Sw,QmbeuWcjMqs4UirVgwnZyGNuvPGfBfE1e3oZZ3fGoNs6Sw,,,320865,0
+SandLabs,Funded,8,Outreach,New Entrants,,Unreported,18868,18868,0x39D5e491F660585Fb27C2edaE11252A580f4eE66,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmamP2799bhnhs5uPZG6oXu5c4XgRAQ9EiZcDNsKYAGWBq,QmamP2799bhnhs5uPZG6oXu5c4XgRAQ9EiZcDNsKYAGWBq,,,184368,0
+Odd.Bot,Down Voted,8,Build & Integrate,New Entrants,,,0,0,0xF9ac73f30dBe52c10e3d5950db66357f9d0be44D,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmfQsE3NMyXkNNocFFdQkaWeAYQg7Y2vUMgoafPNipNiRw,QmfQsE3NMyXkNNocFFdQkaWeAYQg7Y2vUMgoafPNipNiRw,,,1068542,2690453
+Solipay,Down Voted,8,Build & Integrate,General,,Unreported,0,0,0x748C597E4cD11D6514DBF76EfE458Db290aa4b3d,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmdhejH6d9k6wc9XQfYuwgqFknAY386VaeQXBYnxntZcZa,QmdhejH6d9k6wc9XQfYuwgqFknAY386VaeQXBYnxntZcZa,,,438803,876496
+Evotegra,Funded,8,Unleash Data,General,"Our image collection, annotation, and publishing process follows a waterfall-like structure.
+Although we have 50% of the grant carried over, we are realizing the expenses for this batch of data now (Round 8), and amortizing the payment/work over the next 1-2 months.
+Here is the work delivered & realized.
+[x] Collect 100.000 images from diverse road scenes in Germany (Completed September 2021). This was completed within the budget and time. It cost 50% of the grant, and allowed us to kick off the annotation process.
+[x] TBD: Annotate the images in ~300 classes (~1 month). Annotation can now start since data collection was completed. This will cost 47.5% of the remainder grant amount, and should be delivered by October to November.
+[x] TBD: Publish the dataset in a pool for the initial price of 1 Ocean (~1 month). Publishing will take place after annotation is completed. This will cost a final 2.5% of the grant available, and should be delivered shortly after annotation is finished October to November .",Completed,33208,33208,0x61B15998893cC746B46C08FEdEE13a0d1b33bBa9,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmYvPDafFkyxj1nZ5s48woYDHfYZoDpiGNb5jAkNrNn1mC,QmYvPDafFkyxj1nZ5s48woYDHfYZoDpiGNb5jAkNrNn1mC,,,709990,300000
+OurNet,Funded,8,Unleash Data,New Entrants,,Unreported,33208,33208,0x3D5a3052fF5A3C65f5c300cF7bAA4C08617509B9,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmZ1JgN42kHFr5371sx9AsiLaLCYb2Zges7xCGS7mBcvPZ,QmZ1JgN42kHFr5371sx9AsiLaLCYb2Zges7xCGS7mBcvPZ,,,489009,0
+Onshore Ocean,Funded,8,Build & Integrate,General,"[x] [ x ] PoC jupyter hub notebooks > http://164.90.253.88/ please use dummy credentials u: abc pw: abc
+[x] [ x ] Notion wiki > https://wealthy-snowshoe-969.notion.site/Algovera-Wiki-c47a6eec1b1f4f20855519cc134980fa
+[x] [ x ] Hosted Web App Landing Page > https://www.algovera.io/",Completed,33208,33208,0x7af50AE9F5c72e917Fa020F406b23F0b2B685437,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmXdTL4QSEH7TSGXgybajCiEhrbR5jvD3r6AaSRxH4KNBb,QmXdTL4QSEH7TSGXgybajCiEhrbR5jvD3r6AaSRxH4KNBb,,,1502714,0
+DIMO Electric Vehicle,Funded,8,Unleash Data,New Entrants,,Unreported,33208,33208,0xB068F7147724619A961494e55FdBB104468c90c8,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmY5j9YqVcGP6oWJtYgWbqfsfMwZuSQrFR67hyY4TwQn7m,QmY5j9YqVcGP6oWJtYgWbqfsfMwZuSQrFR67hyY4TwQn7m,,,683721,26366
+RugPullIndex,Funded,8,Build & Integrate,General,"[x] [x] Rebuild RPI crawler using the Erigon API; Crawler should have more throughput and actuality; We’ll start crawling Balancer V1 pools.
+The crawler has been rebuilt using the Erigon API. We’ve done loadtests on Erigon and we’re confident that we’ll be able to make up to 1000 req/s. We haven’t managed to crawl all Balancer V1 in existence pools but we’ve started trying to understand what that task entails. In case we decided to crawl all Balancer V1 pools; we’ll have to raise further funds in a future round.
+[x] [x] Serve as much data as possible to the OCEAN community for building DATA&DEFI apps.
+These are our website stats since August 3, 2021 (the last time we received funding):
+
+2034×1006 154 KB
+
+Our website and API were continuously online. We’ve addressed all problems that arose as fast as possible. In fact, we even mitigated a hard fork of the Ethereum main chain and the website continued to be up even when there was 200 people simultaneously online when we hit the Hacker News front page:
+
+1704×436 86.1 KB
+
+[x] [x] Measure & optimize more; API usage & website conversion rates
+[x] [x] Identify additional metrics that will be shared on Rug Pull Index. This work is being actioned following our user research findings. Explanations of what these metrics are and why they are important will be created and shared on the RPI blog to attract new RPI users and make RPI a more valuable resource for existing users.
+I’ll mark these tasks as done though I guess we could have done more targeted work to solve it. All throughout August and September Scott and I had repeated conversations on which direction we want to take the company towards. As we both concluded: We first needed to figure out what we’re actually doing before we commit to any metrics. So here’s what we’ve done until now:
+- We’ve identified shared goals that we have with the project
+- We have further investigated offline how I can incorporate a company; We still have a lot of unknowns and doubts though so it could take more time.
+- We have done some initial work to understand what it takes from a technical perspective to measure our metrics.
+- We’ve spent some time elaborating on all personas that interact with rugpullindex and what their motivations are; We now have a good overview of who we want to serve.
+- I’ve written a couple of blog posts that also address some questions we’ve asked ourselves in the process:
+    - Is Competition For Losers?
+    - We’re not a startup
+    - On Building The Infamous “Version 2”
+Finally; We now have developed first drafts for what we think is an exciting vision and mission for the rug pull index. We have internal documents that do a good job outlining what it is, but to publicize it; I think it’d be advisable for us to re-iterate. I’ll close this deliverable for now though.",Completed,19391,19391,0x005241438cAF3eaCb05bB6543151f7AF894C5B58,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmWQQqJbdLYTW5sU3Khif1gxmeEXoujRzwzHP5uJiPwX9h,QmWQQqJbdLYTW5sU3Khif1gxmeEXoujRzwzHP5uJiPwX9h,,,1639168,0
+OceanTel,Down Voted,8,Build & Integrate,New Entrants,,,0,0,0x37Cf062F8a1ffF1169002C39ff816f8E331123bd,https://vote.oceanprotocol.com/#/officialoceandao.eth/proposal/QmXjZLswEenPcEcET5d8QRRS2FBWaWZPm8uuXRDPF3S926,QmXjZLswEenPcEcET5d8QRRS2FBWaWZPm8uuXRDPF3S926,,,35290,498355
+Finalized Votes4LPs,Funded,9,DAO,General,"[x] [x] Uniswap V2 [Proposal] Votes4LPs - give all Ocean tokens a vote! 4
+[x] [x] Uniswap V3 [Proposal] Votes4LPs - give all Ocean tokens a vote! 2
+[x] [x] Bancor V2 [Proposal] Votes4LPs - give all Ocean tokens a vote! 3
+[x] [x] On further rationalizing the ROI metrics in the OCEANDAO
+[x] [x] Follup work to get strategies implemented in OceanDAO snapshot space.
+",Completed,3638,3638,0x005241438cAF3eaCb05bB6543151f7AF894C5B58,https://snapshot.org/#/officialoceandao.eth/proposal/QmckccQhWLH5yrAHpTFBy3gX34fbNJzZewBYNMFgybWA6u,QmckccQhWLH5yrAHpTFBy3gX34fbNJzZewBYNMFgybWA6u,,,1918232,0
+Homomorphic Encryption for Ocean Market,Funded,9,Build & Integrate,New Entrants,,Unreported,22764,22764,0x69E49561bbdB44CaF87ae6505f7330bAf8dD32BF,https://snapshot.org/#/officialoceandao.eth/proposal/QmZhcAPS74C4PA28XJg3btQHUyyTdVd3Nir7nLN1LbANa1,QmZhcAPS74C4PA28XJg3btQHUyyTdVd3Nir7nLN1LbANa1,,,123125,0
+RAZ Finance,Funded,9,Unleash Data,General,"Our first dataset has been published to the Ocean Market.
+[x] Grant Deliverable 1
+Impact in Action: Practical impact measurement and management, stakeholder engagement, ESG and sustainability datasets traded on the Ocean Market
+The STRORC-30 dataset features expanded data related to practical “Impact in Action” as influenced by stakeholders across both developed and emerging markets, beyond established frameworks and reporting models. The dataset will therefore be able to influence research and development related to impact metrics, ESG assessment frameworks, and regulations such as the Sustainable Finance Disclosure Regulation (SFDR). The increasing scope of the data collected therefore makes STRORC-30 of interest to a wider range of decision-makers, sustainability, impact and ESG practitioners, as well as asset managers.
+RAZ Finance is a Crypto AM Awards nominee in the Environment, Social and Governance category. The support of the Ocean DAO community in relation to our project has been published on all RAZ social media channels: LinkedIn, Twitter and Instagram.
+[x] Grant Deliverable 2
+RAZ Network membership revenue generated via OCEAN
+Update: Our main platform will be accessible to any $RAZ token holder. Customized platforms for individual companies and initiatives will be a paid feature as part of due diligence and impact-financial data verification processes. As such, our revenue stream has expanded from the initial membership-based model, to a feature-driven model that will make it possible for a larger number of companies, as well as nonprofits, to access RAZ.
+[x] Grant Deliverable 3
+Impact Finance Evolved: Integrated Financial, Environmental, Social and Governance Datasets Traded on the Ocean Market by January 1st 2022
+Update: Our initial model was based on the engagement of a small group of initial early adopters. We have since transitioned to an open platform model that makes it possible for our DAO community to access RAZ, while paid features are customized for business and nonprofit use cases. Our DAO community is launching “calls for proposals” in specific impact areas, including “Regenerative Innovation - Wellness, Agriculture and Production” as well as “Ocean Impact”. Our DAO will be voting on which projects to fund as a result of these calls. Companies will be utilizing RAZ to provide data on their impact and financial performance to qualify for funding and list their opportunities on our platform. As such, we will be casting a wider net that will allow us to collect data faster and more efficiently. Revenue from the trading of data as part of our Ocean Market datapools will go back to the RAZ DAO treasury to be deployed to winning proposals, therefore this creates more incentivization for companies to participate and provide data. This process overcomes an early-stage challenge we experienced related to how to incentivize companies to consent to their data being traded as part of an Ocean Market pool.",Completed,22764,22764,0xf8388c804061d08b757BAef8d9bB5f9eF8BA90D1,https://snapshot.org/#/officialoceandao.eth/proposal/QmXbfsBJ1ftgYpWjaLzbaJuycNDRJbfdhGtkUKaGPC5cAe,QmXbfsBJ1ftgYpWjaLzbaJuycNDRJbfdhGtkUKaGPC5cAe,,,27575,0
+Resilient ML,Granted,9,Unleash Data,General,"[x] In this round we will expand our offering to include:
+◦ historical and current high-level extracted sentence structure features
+◦ spectral and matrix factorisation features obtained from the document-document and word-word matrices, as a separate dataset
+In this regard, we have released two additional datasets.
+The first contains the noise-free, processed article sentences for all current news sources and assets for the complete period that the Real News Crypto dataset covers (2017-present). This dataset will be maintained and extended in the following weeks to include higher-level structural features (grammar trees and syntax graphs) of the provided sentences. The dataset is now available at a fixed price at: https://market.oceanprotocol.com/asset/did:op:a62962De45BEE6C99cae7a685D4f8ee1EaB7825C
+The second dataset contains the top-3 tokens’ and articles’ spectral components (eigenvalues and eigenvectors of the word-word and document-document matrices) for the weekly article collections in the spanned period. Note that the dictionary tokens belong to a custom cryptocurrency-specific vocabulary, which has been sentiment-annotated hence it is expressive of market sentiment for the covered period. This is particularly informative for market participants wanting to gain insights into the market dynamics from an investors’ sentiment perspective. The dataset is now available at a fixed price at:
+https://market.oceanprotocol.com/asset/did:op:E0AB818DB99dd89548512407A328A9D7Bf6f994a
+Both of the new datasets are updated weekly on Saturday at midnight (00.00 am UTC).
+[x] additional Analytics components on the prototype App to illustrate information about dataset content and article authors, relating to the KPIs of veracity and provenance identification, and adding to the currently available KPIs of volume, variety and velocity (update rate).
+We have continued developing and optimising the online interactive App which provides analytics about the Real News Crypto dataset. We have now added visuals that inform about the weekly sentiment spectrum as well as provenance (authorship) information for the collection of articles for the different news sources and assets.
+[x] Maintenance and data support for data buyers and expansion of current Real News Crypto dataset
+We have been maintaining the Real News Crypto dataset. Furthermore, we have added NewsBTC as an additional news source, covering the complete period (2017-present), and we are currently working on integrating additional assets (Enjin, Axie Infinity, Solana and more).",Completed,22764,22764,0x4D4290CBA904aBb4dFbc1568766bCD88e67Be391,https://snapshot.org/#/officialoceandao.eth/proposal/QmNhbpH9LrPuYo3cvQfCkKVQV4ViJMmAvGQsfCQst1AxWp,QmNhbpH9LrPuYo3cvQfCkKVQV4ViJMmAvGQsfCQst1AxWp,,,813364,0
+Posthuman AI,Funded,9,Unleash Data,General,"[x] [x] Towards this, we trained two models -
+Model 1: AI Assistant as a service - A custom gpt2 model trained on conversational data, this model can be used to build and run conversational AI chatbots across fields, AI based games like adventure, etc. Published on Ocean Market. [Model: https://market.oceanprotocol.com/asset/did:op:4Ff0c8049458C19E08e125D6536af8716be5Ffa8
+Algorithm: https://market.oceanprotocol.com/asset/did:op:16915E68A8b427321c2117Cd4B4b80d280962027 ]
+Model 2: Wikipedia QA as a service - A custom roberta model + retriever pipeline trained on Open-Domain wikipedia question answering. This model can answer any question from the entirety of wikipedia text. This can be used for research across fields, such as medical, historical, academic & scientific research. [publishing this week]
+[x] [x] Prepared bounty descriptions for Hackathon where developers build apps using our AI models.
+[x] [x] Switched file hosting to Filecoin, and added an encryption library to maximise model security - towards building our own market. More - https://docs.google.com/document/d/1myCa3YGt-kVQzEndNVUtmlgPwXbW25oHDcjQ4OOVeSg/edit#",Completed,14309,14309,0x21e06646433954aabace8e3d93d502e423249299,https://snapshot.org/#/officialoceandao.eth/proposal/QmPAGkJ1TgEHNLSruxmXc8dVHUMhKevBLfGCRCo8z8xyjE,QmPAGkJ1TgEHNLSruxmXc8dVHUMhKevBLfGCRCo8z8xyjE,,,876696,0
+WorkPi,Funded,9,Unleash Data,New Entrants,"
+[x] Extra delivered: 
+General knowledge base on SSI wallets, federated learning & Privacy-preserving AI. While doing the research, we realised that obtaining background information on different types of federate learning models and privacy-preserving AI models is necessary for readers to understand our research. Naturally, we included this in our documentation.
+ GitHub
+
+
+
+[x] Deliverable 1: 
+Create an architecture on how the Compute-To-Data technology could be applied on SSI wallets.
+Currently Ocean’s compute-to-data uses an architecture that involves kubernetes clusters where a visiting docker container contains the machine learning algorithm and kubernetes configurations allowing it access to (portions) of the data. A new method has to be devised for SSI Wallets as they are typically running on mobile phones which do not allow for apps to run kubernetes server clusters in a usable fashion.
+ GitHub
+
+
+[x] Deliverable 2: 
+Create a knowledge base with the precise definition of Compute-To-SSI, it’s purpose, architecture (including diagrams) and the way to create software using it. This will be set up as a public git repository and will track further progress of the project as well as allow anyone to participate/contribute.
+ GitHub
+
+
+[x] Deliverable 3: 
+Model how SSI wallets would interact with the Ocean Protocol ecosystem, i.e. rent existing machine learning models, how to pay for it, or be paid for it. This will naturally be added to the knowledge base.
+This deliverable is mostly woven into the rest of the text. Most details can be found in the 2 subparts mentioned, but in order to acquire all information on this deliverable, one must read the entire document.
+ GitHub
+
+
+[x] Deliverable 4: 
+Model how an interested party can utilize the network of SSI wallets to train their machine learning algorithm for a specific purpose. Define what taxonomies are required. This will naturally also be added to the knowledge base.
+ GitHub
+
+",Completed,22764,22764,0x6131C5bBe0FA34Dc0F96E931BcA3E611A5199EEF,https://snapshot.org/#/officialoceandao.eth/proposal/QmXp2yx9qegXCdtrHdcYgbDY1fbpuXxe3UT3zNG9nEU784,QmXp2yx9qegXCdtrHdcYgbDY1fbpuXxe3UT3zNG9nEU784,,,992222,0
+Datalatte.ai,Funded,9,Unleash Data,New Entrants,"[x] Grant Deliverable 1 - report:
+- A new design of our landing page (https://datalatte.ai)
+- Developed a Lofi web flow for user interview
+- Conducted initial user interviews. We interviewed two users aware about their data rights but with zero knowledge of the web3 ecosystem. With the knowledge gained, we have decided to Develop and conduct unmoderated online surveys for a better understanding of product requirements and customer segments. This action is stated as part of our deliverables for our Round 10 proposal.
+- Incorporation
+- At this moment our company is about to be incorporated as a registered entity in Singapore. This company structure was chosen in order to be able to pursue all tasks necessary in the cryptocurrency space without limitations.
+[x] Grant Deliverable 2 - report:
+In our current MVP, we decided to make two changes – data source and data storage system.
+- Data source and MVP architecture pivot:
+- We first changed our initial data source from Amazon shopping data to Netflix watching history based on major reasons: 1) the suitability of generating NFTs 2) the low data sensitivity of Netflix data. We then decided to include InterPlanetary File System (IPFS) to our current architecture which supports seamless integration with crypto wallet connect.
+- Netflix Data Audit
+- Netflix watching history data sets were collected from community members. We performed initial analysis of and merged the data sets with online resources. For instance, we connected with rapidAPI and which will enable us to test the validity of data owner. The preliminary code was published on our github profile in Python. https://github.com/datalatte-ai/netflix
+- Datalatte data marketplace
+- We engaged with the Ocean Protocoll community in our first steps towards setting up our own data marketplace. We are busy cleaning out errors in our code and en route to implement the first iteration in the upcoming days. The code will be made available on github as soon as we have a stable solution available. https://github.com/datalatte-ai/
+[x] Grant Deliverable 3 - report:
+- Our lightpaper published:
+- https://medium.com/@datalatte.ai/datalatte-ai-light-paper-bb53dba4aa4 1
+- Blog post introducing our vision through interactive short story co-authored with GPT-3:
+- https://medium.com/@datalatte.ai/get-to-know-dia-an-ai-agent-on-a-mission-solving-humanitys-big-problem-with-big-data-3ab9186c8857
+- Blog post debating Digital Human Right through a short story:
+- https://medium.com/@datalatte.ai/digital-human-rights-5c10760d9401
+All links are tweeted through our twitter account: https://twitter.com/DatalatteAI",Completed,22764,22764,0x53fdb2e2aD98a318043a447b6768Be7f4070DDd5,https://snapshot.org/#/officialoceandao.eth/proposal/QmNegMbg2PR6oyHGtSM1wn76G1nbXgMUcDirFcAVbGrzmp,QmNegMbg2PR6oyHGtSM1wn76G1nbXgMUcDirFcAVbGrzmp,,,943173,0
+Walkers Reserve Currency,Rejected,9,Unleash Data,New Entrants,,No Ocean,,,0xEeEA24010c64c83BA9ac9d1dC4048CB46395B726,,,,,,
+Disrupt MLS,Funded,9,Unleash Data,New Entrants,"[x] Publish an article/tutorial explaining your project as part of the grant. October 2021(COMPLETED) 
+- Landing Page where buyer and seller data is collected gauging interest. October 2021 => Round 10 deliverable (UNDER CONSTRUCTION) 
+- Create Listing Page (ready for beta testing(End of October 2021) => Round 10 deliverable (UNDER CONSTRUCTION)
+- Get site on production environment and available to ping (End of November 2022) => Round 11 deliverable
+- Maintaining user sessions => Round 11 deliverable
+- API Creation - authenticated web page that gathers seller data =>Round 11 deliverable
+- API Creation - making data available on Ocean Market. =>Round 11 deliverable
+- Ad Creative that will lead to landing page - specifically to gauge interest in home sellers. & Blog Post Outlining Ad creative performance => Round 12 deliverable
+",Completed,22764,22764,0x89128D2be9163d65b3dF2Ebf088A0904Dc48B625,https://snapshot.org/#/officialoceandao.eth/proposal/QmXz9yVV5gvQYYioLKPDGRYuyGc8sbuHPVBCgwpmWCjwR8,QmXz9yVV5gvQYYioLKPDGRYuyGc8sbuHPVBCgwpmWCjwR8,,,419577,34
+DataX,Funded,9,Build & Integrate,,"[x] TradeX - documentation detailing usage
+Our documentation for TradeX is live at https://datax.gitbook.io
+Also created video to Swap DT to DT on TradeX - TradeX Youtube Video link
+[x] TradeX - support for Polygon and BSC
+Multinetwork support is added to datax.js. DataX now supports all production networks that Ocean Protocol supports.
+912×632 53.1 KB
+[x] StakeX - Staking Web App
+Staking Web app is developed and functional. Here’s a video that shows How to Stake OCEAN (using rinkeby network)
+StakeX Youtube Video link
+[x] StakeX - library support for unrestricted staking/unstaking
+datax.js now supports maximum staking (also shown in video above) allowed by Pool contracts.
+1031×462 51.6 KB
+",Completed,22114,22114,0xeFB850EA4963Eb6d1A914D4Eb0b114026da51623,https://snapshot.org/#/officialoceandao.eth/proposal/Qma3o3yuiwL5KMKsk9TYcbS67mdGmuPf2WsPnHVmvTt5Pk,Qma3o3yuiwL5KMKsk9TYcbS67mdGmuPf2WsPnHVmvTt5Pk,,,1440427,0
+Ocean Greek Community,Funded,9,Outreach,New Entrants,,Unreported,13008,13008,0x0415b55044db2d3671230383262bf5f8b61694fc,https://snapshot.org/#/officialoceandao.eth/proposal/QmcFTfHyQvDHdT9wZVV22UXtwMneBCxcURd7XGb16S6S5y,QmcFTfHyQvDHdT9wZVV22UXtwMneBCxcURd7XGb16S6S5y,,,926369,32131
+Data Whale,Funded,9,Build & Integrate,,"[x] [x] Test-Links for ALGA with proposed functions, some hard-coded features have been deployed until it is fully integrated in Ocean Aquarius and sub-graph. In return, documentation will be provided towards improving this library.
+- Apple: https://testflight.apple.com/join/i55xaclP
+- Android: https://drive.google.com/drive/u/0/folders/1MJHduioTZDkwicZUhkm3eRLoxgeoUN9c
+[x] [x] YouTube videos have been delivered, leading to a positive engagement.
+- https://www.youtube.com/watch?v=j1U8ufCJqXI&t=2s
+- https://www.youtube.com/watch?v=F80RrOSOjB0&t=39s
+- https://www.youtube.com/watch?v=vwup0rbU5QM&t=170s
+- https://www.youtube.com/watch?v=sZE49GJTOfs&t=6s
+- https://www.youtube.com/watch?v=in_S70xgubE
+- https://www.youtube.com/watch?v=Ju4kdjaIkn0&t=7s
+[x] [x] Continued generic Outreach initiatives. Backup below.
+- ALT+F Summit Attendance: https://www.youtube.com/watch?v=XDXLMFd1c6c
+- Held Leadership Speech on “Data as an Asset” at the American University in Dubai: https://youtu.be/HkRIyHo2t_0
+- Created Medium blog post that was featured on the Middle East’s leading blockchain news outlet: https://www.unlock-bc.com/80652/the-next-big-thing-data-tokens-disrupt-a-5-trillion-us-industry/
+",Completed,22764,22764,0xbbd33AFa85539fa65cc08A2e61a001876D2f13FE,https://snapshot.org/#/officialoceandao.eth/proposal/QmTVtSGyvNyqD5h7PW8uJnbm9vMCp97zbt3viqDLnXEmni,QmTVtSGyvNyqD5h7PW8uJnbm9vMCp97zbt3viqDLnXEmni,,,1357982,34
+Onshore Ocean,Funded,9,Build & Integrate,,"[x] [x] Create Marketing Plan
+- https://www.canva.com/design/DAErDTN01h4/rUJG1N272blT4RGzwT06rA/view?utm_content=DAErDTN01h4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+[x] [x] Conduct UX research for landing page and propose UX workflow
+- https://www.canva.com/design/DAEraJq_TUs/view?utm_content=DAEraJq_TUs&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+[x] [x] Create Revenue Model
+- https://www.canva.com/design/DAErzaHDwks/H_YJrULNS2HkA6vrQuLbFg/view?utm_content=DAErzaHDwks&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+[x] [x] Add notebooks for exporting to code and uploading algorithms to Ocean Marketplace
+- http://164.90.253.88/ > please use dummy credentials u: abc pw: abc
+[x] [x] Create Plan for Compute-to-Data Infrastructure
+- https://www.canva.com/design/DAErzlCAFlQ/ZKhawun95S5FF3Pkssa23w/view?utm_content=DAErzlCAFlQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+",Completed,22764,22764,0x7af50AE9F5c72e917Fa020F406b23F0b2B685437,https://snapshot.org/#/officialoceandao.eth/proposal/QmV7dBtC3VNSp4CqHsGaAtdDRmzKdN1CWiYeiJrf5oUkk1,QmV7dBtC3VNSp4CqHsGaAtdDRmzKdN1CWiYeiJrf5oUkk1,,,967774,34
+Coral Market,Funded,9,Build & Integrate,,"Team Opsci is happy to report that we have met all of our Round 9 deliverables and that work continues on our roadmap for Coral, our Open Science Marketplace dApp.
+[x] [x] Research data object self-descriptions and mapping to Ocean Protocol Data Token Metadata
+The Research Object Self Descriptions technical document has outlined basic specifications for a research data object on Ocean with emphases on self description fields that promote interoperability for parent Research Project Objects and their children (Datasets, Experiments, & Notebooks). Next steps include additional research and development, test data token deployments, and interviews with computational scientists to properly assess workflow branch points and requirements.
+[x] [x] Architectural specification, diagram, and technical documentation for Coral Market Application Layer
+The summary of work completed on Coral, the Scientific Data Marketplace, can be found on Opscientia Documentation: Coral Market. We have successfully forked a rebranded marketplace and have published a preliminary architecture for hosting and serving large datasets. Next steps involve updating the front-end with a landing page for scientist-friendly documentation, investigating custom back-end architecture for running our own PoA test network, and support for data storage and computation.
+[x] [x] Develop best practices for engineers to onboard onto Web3 Big Data projects
+Onboarding Documentation for Engineers has been created to help us onboard developers for the next stage of research and development. We expect to bring on contractors for devOps work and data engineering.
+[x] [x] Publish science-friendly onboarding documentation onto Web3 marketplaces
+We have published our community documentation at docs.opsci.io. Next steps include integrating user research and commissioning a front-end designer to build easy to understand onboarding materials for the Coral landing page.
+[x] [x] User Research + User Requirement Design Feedback from Scientists
+We have made our User Survey for Decentralised Research Data Storage & Management results open source for the community. Next steps involve releasing the materials and instrumentation on https://github.com/opscientia/desci/community/surveys and obtaining additional feedback on our first market prototype once it is published and functioning on test net.
+[x] [x] Technical research reports on the integration of Filecoin Storage Auctions with Open Science Data aggregators to provide low-cost storage options for decentralized laboratories
+We have made our research report on Open Neuroscience Data Archival and Retrieval on Filecoin open source. Next steps are to develop tooling to streamline painpoints for pre-processing and preparing data for submission to Filecoin. We are also actively exploring methods for submitting auctions as part of the Ocean.js workflow now that Textile has integrated a Filecoin bridge to Ethereum.
+[x] [x] Rebranded Ocean Market fork on Ethereum / Polygon testnet
+We have deployed a rebranded Ocean Market fork that can be found here https://market-opsci.netlify.app/ 1. We require additional architecture and back-end research to deploy a network on a test net with example scientific assets such as: datasets, computation, experiments, and notebooks.",Completed,22764,22764,0x33359285f30e7b3386de70ca500f4fe27853765b,https://snapshot.org/#/officialoceandao.eth/proposal/QmbQHFknNhRD9P3HN6HuR4QeuiR9oKdanzsLufo7otK6v8,QmbQHFknNhRD9P3HN6HuR4QeuiR9oKdanzsLufo7otK6v8,,,1244574,34
+Alcor Network,Funded,9,Build & Integrate,New Entrants,"[x]  Landing page + Branding + social channels
+https://alcor.network 1 (yes we rebranded Hama to Alcor)
+[x]  Fork and update Ocean Provider component
+We forked Provider component of Ocean and made needed updates (forked and updated provider repo can be seen in screenshot below)
+1628×904 80.5 KB
+
+[x]  Create a proxy server to handle monetisation of API endpoints
+We also created a new Proxy server that compliments the updated Provider component to define custom restrictions/access conditions. This component repo is in screenshot below - access-proxy
+1628×904 80.5 KB
+",Completed,22764,22764,0x5b3d1710851c651ff8075a3aDe3eDFd23B557E75,https://snapshot.org/#/officialoceandao.eth/proposal/QmNnChSyVLuFxVKry9ApwkCsXNQ7pckaryBYv8mDmYrKLj,QmNnChSyVLuFxVKry9ApwkCsXNQ7pckaryBYv8mDmYrKLj,,,1377415,0
+Ocean Pearl,Granted,9,DAO,,"[x] [x] Leaderboard [Leaderborad HERE]
+    - [x] see whether a proposal will be funded or not at the current voting state (considering earmarked proposals)
+    - [x] overview over the entire voting process
+[x] [x] Filter for Projects page [Filter HERE]
+    - [x] implement filter functionality for projects page
+    - [x] update current categories
+[x] [x] Project-Profile (aka Project-Detail) improvements [example HERE]
+    - [x] image-gallery to display multiple images per project
+    - [x] display social links to other external pages
+[x] [x] Project Management Page [Screenshot HERE]
+    - [x] upload multiple images to display on your project-profile
+    - [x] add social links for your project
+    - [x] adjust project category
+[x] [x] SEO optimization
+    - [x] optimize how pearl is found over different search engines
+    - [x] optimize meta tags and shareability
+[x] [x] Proposals Page [Round 10 example HERE]
+    - [x] switch round metrics on round selection
+    - [x] store filter options inside URL to improve shareability
+[x] [x] Reliability [Uptime status page HERE]
+    - [x] add auto-backup for the Database
+    - [x] endpoint monitoring with Notification on downtime
+[x] [x] Onboard projects and collect feedback [exceeded our targets - details in R11 proposal]
+    - [x] get in touch with community to update project profiles
+    - [x] start marketing to get more engagement
+",Completed,22764,22764,0xe6E3459bA0d70699F54464cc4b5d273810E7EC7B,https://snapshot.org/#/officialoceandao.eth/proposal/QmWnncFrvp1dn952MU64Qgmf7a9jakqGfawNqZUSusseV5,QmWnncFrvp1dn952MU64Qgmf7a9jakqGfawNqZUSusseV5,,,1196928,34
+Duggie,Funded,9,Unleash Data,New Entrants,"[x] [ x ] Grant deliverable 1
+Develop an automatic image annotation framework (AIAF) to collect pet data sets via drag and drop functionality and image capturing.
+Progress:
+We have built out our first version of the annotation framework for Duggie, where users can simply upload or drag drop their pet and collect pet data sets. http://www.duggieworld.com/pet-create 1
+You can watch this tutorial video on how this works: https://www.loom.com/share/ffe52194936b46caae01ad0762cf9070
+[x] [ x ] Grant Deliverable 2
+Release business whitepaper, light paper as well as community activation materials and programs.
+Progress:
+- Since receiving the grant, we have been able to complete our Light paper with creative deigns to make it more appealing to the readers.
+- We have also rollout our White-paper V.1.0.
+- For our community growth, the White-paper and light-paper will server as our community activation materials.
+Light paper: https://www.dropbox.com/s/mb4gr63c75z05n5/Duggie%20Litepaper%20Intro%20%20(1).pdf?dl=0 1
+White paper: https://www.dropbox.com/s/460fpiisbu6l33t/Duggie%20Whitepaper%20-%20OCEAN%20.pdf?dl=0 1
+- We have also started collating a list of FAQs from our early adopter, and we hope to push list this on our website.
+[x] [ x ] Grant Deliverable 3
+Kickstart community-building efforts & social media following with published medium articles to sustain engagement and create awareness.
+
+
+Progress:
+
+Since the grant, we have started growing our community, securing & gripping the attention of our TA by getting them to follow us on social media.
+We have also leveraged on PPC search ads, display Ads and Placements to grow our Instagram page.
+We have also published an article on Medium which has a decent amount of reads. https://medium.com/@duggieworld/duggie-revolutionizing-pet-ownership-b4786aa9faa0 1
+Since the grant, we increased our Instagram (@duggieworld) from 56 followers to over 5,000 followers and we are growing daily. Our Twitter (@duggieworld) has following has also grown to over over 250 followers from 16 followers. And we intend to continue the growth at this pace in order to reach more people and spread word on the project and ecosystem.
+",Completed,22764,22764,0x287B37008D6E0E12Feaa162050803C0B4050AbF9,https://snapshot.org/#/officialoceandao.eth/proposal/QmZyDcwVeEd9xgjqg3a5Xg8z1YyDtnLVx3W9JwqMrnc3VB,QmZyDcwVeEd9xgjqg3a5Xg8z1YyDtnLVx3W9JwqMrnc3VB,,,710642,127698
+DataUnion Foundation,Funded,9,Build & Integrate,,"[x] [x] New pitch deck -> https://docs.google.com/presentation/d/18_3V87U0D1f3-yvZ-cFy1Rq0GRjpTR5rm1FDoi1I7YE/edit#slide=id.geff767e975_2_0 1
+[x] [x] Mobile App - annotation feature -> new version released in the Google Play store
+[x] [x] Celo network mobile wallet integration -> Celo wallet and Valora wallet integrated
+[x] [x] Data Portal improvements -> Metamask handling improvements, pagination issues fixed, multi select improved, worldmap image details fixed",Completed,22764,22764,0xF9ac73f30dBe52c10e3d5950db66357f9d0be44D,https://snapshot.org/#/officialoceandao.eth/proposal/QmXRjUzMdEWz5R1o83oMA2sJBLkcM6Czp7nmVwfSvHxow8,QmXRjUzMdEWz5R1o83oMA2sJBLkcM6Czp7nmVwfSvHxow8,,,1812350,0
+Walkers Reserve Currency,Down Voted,10,Unleash Data,New Entrants,,No Ocean,0,0,0xEeEA24010c64c83BA9ac9d1dC4048CB46395B726,https://snapshot.org/#/officialoceandao.eth/proposal/QmQ2B82nZF4AA6Dhys5ahG29t1k3JDVk7QqUfeGwHSPQKf,QmQ2B82nZF4AA6Dhys5ahG29t1k3JDVk7QqUfeGwHSPQKf,,,2007122,3908773
+Taurus Chain Network,Down Voted,10,Build & Integrate,New Entrants,,,0,0,0xAFd61F5FEB9695739CDb5C180C81A5F044F55819,https://snapshot.org/#/officialoceandao.eth/proposal/QmbjrL4N8iLZTT4sDWpunqRTus7RXqJtRBKFwJKUgyHJhK,QmbjrL4N8iLZTT4sDWpunqRTus7RXqJtRBKFwJKUgyHJhK,,,569695,3971009
+Multilingual Ocean Marketplace,Down Voted,10,Core Software,,,,0,0,0xF49A4ba03f69eEf2366303e64Fc7b3a33d3f0043,https://snapshot.org/#/officialoceandao.eth/proposal/QmYT98Uwjc6EzdNrG59RnCrkNr9P7E65Fe1Qp5V9oc3M77,QmYT98Uwjc6EzdNrG59RnCrkNr9P7E65Fe1Qp5V9oc3M77,,,1137585,3241319
+Nigeria Community Building,Down Voted,10,Outreach,New Entrants,,,0,0,0xe16aeE13e6a7bA2d2f5Bf338F8b063C33Ff8ff87,https://snapshot.org/#/officialoceandao.eth/proposal/QmSEy15kidSG1yARUC4eVnnw4JpvVD1zgB6DD5p3JyUqDV,QmSEy15kidSG1yARUC4eVnnw4JpvVD1zgB6DD5p3JyUqDV,,,49030,343505
+RAZ Finance,Down Voted,10,Unleash Data,,,Completed,0,0,0xf8388c804061d08b757BAef8d9bB5f9eF8BA90D1,https://snapshot.org/#/officialoceandao.eth/proposal/QmUXYguv6ZoQNdtvqRWt3mocmQKVEp5pRCTkVBBQU89TLF,QmUXYguv6ZoQNdtvqRWt3mocmQKVEp5pRCTkVBBQU89TLF,,,99960,2141151
+Resilient ML,Down Voted,10,Unleash Data,,,Completed,0,0,0x4D4290CBA904aBb4dFbc1568766bCD88e67Be391,https://snapshot.org/#/officialoceandao.eth/proposal/QmQTNvnaDdKkSrtEMrnpyK8hdtwh5PePzjPZgCBfQg4RPZ,QmQTNvnaDdKkSrtEMrnpyK8hdtwh5PePzjPZgCBfQg4RPZ,,,712502,3119322
+Data Whale,Down Voted,10,Build & Integrate,,,Completed,0,0,0xbbd33AFa85539fa65cc08A2e61a001876D2f13FE,https://snapshot.org/#/officialoceandao.eth/proposal/QmcFZvZZ6KX7U7H3AJPQ1thHx15MQrm6iRmPFC9bn2SoFT,QmcFZvZZ6KX7U7H3AJPQ1thHx15MQrm6iRmPFC9bn2SoFT,,,5376914,5532176
+Ocean Missions,Down Voted,10,Outreach,,,Completed,0,0,0xE2A4DEd1eB0Bfa8027F1A2eD7E09D72843d6D35a,https://snapshot.org/#/officialoceandao.eth/proposal/QmbpvN3XpvgJ3LTuuyRNf9xnq9SpsXpDbVC2K2Yy1WHPQ8,QmbpvN3XpvgJ3LTuuyRNf9xnq9SpsXpDbVC2K2Yy1WHPQ8,,,2357433,3424102
+Clean Docs,Funded,10,Core Software,,,Unreported,10611,10611,0x169821D39aEBE75E6E6550d03Eb0B2eec3AF991a,https://snapshot.org/#/officialoceandao.eth/proposal/QmXktcc9Ekhy9NPuFJTE6ofn2QYLKM5Lc3kbw2mEKsi5TU,QmXktcc9Ekhy9NPuFJTE6ofn2QYLKM5Lc3kbw2mEKsi5TU,,,6983484,0
+Evotegra,Down Voted,10,Unleash Data,,,Completed,0,0,0x61B15998893cC746B46C08FEdEE13a0d1b33bBa9,https://snapshot.org/#/officialoceandao.eth/proposal/QmdRNeFKgQHqi98BQChXDkJCjn7nwG6V6Dr2fXJfcmgbw9,QmdRNeFKgQHqi98BQChXDkJCjn7nwG6V6Dr2fXJfcmgbw9,,,2231402,3586687
+Ocean Protocol Japan,Funded,10,Outreach,New Entrants,"[x] [x] Growth of the Japanese community (quantitatively measured by the number of followers and PV of the content) [Growth Report HERE ]
+    - [x] Growth of 9.1% (847→932): Japan Community aim to grow at least 8% per month based on the number of Twitter followers.
+    - [x] All tweets and articles released from the official account will be translated into Japanese and published on Twitter, Medium and Telegram.",Completed,4642,4642,0xa911ccf5F6C7BD5fb25188D41A536890c3c8fAE5,https://snapshot.org/#/officialoceandao.eth/proposal/QmUjYnToKaFXkkoJwY7xowr2Ne2aQZGfcuVucVPcjEa3rZ,QmUjYnToKaFXkkoJwY7xowr2Ne2aQZGfcuVucVPcjEa3rZ,,,4342023,170
+WorkPi,Down Voted,10,Build & Integrate,,,Completed,0,0,0x6131C5bBe0FA34Dc0F96E931BcA3E611A5199EEF,https://snapshot.org/#/officialoceandao.eth/proposal/QmTKioCf2mPtuYp8dXcvfZAMtsDh5YWDK7xYQdaczQUHpH,QmTKioCf2mPtuYp8dXcvfZAMtsDh5YWDK7xYQdaczQUHpH,,,5014847,6205958
+DATAPOGY,Down Voted,10,Unleash Data,New Entrants,,,0,0,0x9012eEE622e771057863998Ca26c8F45b3BDDb1a,https://snapshot.org/#/officialoceandao.eth/proposal/QmUL1ZCHufJQu3YjKH3vv95C9FGRtgMsMJPS4KbqezW92C,QmUL1ZCHufJQu3YjKH3vv95C9FGRtgMsMJPS4KbqezW92C,,,166855,651128
+VideoWiki,Down Voted,10,Build & Integrate,,,Completed,0,0,0x42a19cd756651A488f1899157c45Af929bf3695F,https://snapshot.org/#/officialoceandao.eth/proposal/QmYgqKfSXebwiWXCuBi58VM8C4DvmW8oe4gKdFLyFxjR75,QmYgqKfSXebwiWXCuBi58VM8C4DvmW8oe4gKdFLyFxjR75,,,1860985,3894181
+Duggie,Down Voted,10,Unleash Data,,,Completed,0,0,0x287B37008D6E0E12Feaa162050803C0B4050AbF9,https://snapshot.org/#/officialoceandao.eth/proposal/QmYPmZEnR8dL9tMVFA8qH7xJytW6FtC3GqtFBYmp7emm73,QmYPmZEnR8dL9tMVFA8qH7xJytW6FtC3GqtFBYmp7emm73,,,0,822105
+Disrupt MLS,Down Voted,10,Unleash Data,,,Completed,0,0,0x89128D2be9163d65b3dF2Ebf088A0904Dc48B625,https://snapshot.org/#/officialoceandao.eth/proposal/QmZvYCaq8ex1MpxNAkBpZvrESUn2UBoyCzfz3V5WykAHSo,QmZvYCaq8ex1MpxNAkBpZvrESUn2UBoyCzfz3V5WykAHSo,,,112754,2891529
+nCight,Down Voted,10,Unleash Data,New Entrants,,,0,0,0x0cEC1Dbc5Db276dE35808bf717a4491082fDb8d8,https://snapshot.org/#/officialoceandao.eth/proposal/QmS8dTm1yPjxcLYJaPNWDMjcLz9PhkaNVhZeypGfNfxvSX,QmS8dTm1yPjxcLYJaPNWDMjcLz9PhkaNVhZeypGfNfxvSX,,,915924,1989416
+DataUnion Foundation,Down Voted,10,Build & Integrate,,,Completed,0,0,0xF9ac73f30dBe52c10e3d5950db66357f9d0be44D,https://snapshot.org/#/officialoceandao.eth/proposal/QmRHdSNxZddfi2ZmNmLevUNC4s4nsAkUUgPwJESuWKjLAP,QmRHdSNxZddfi2ZmNmLevUNC4s4nsAkUUgPwJESuWKjLAP,,,4569203,7014477
+Governauts Rewards Systems Research,Granted,10,DAO,,"[x] Milestone 1 / End of October 2021
+Core research team confirmed
+[x] Milestone 2 / End of October 2021
+1-3 co-funding partners confirmed
+[ ] Milestone 3 / End of November 2021
+min. 20 TE Community Researchers onboarded
+[ ] Milestone 4 / End of December 2021
+Educational program delivered, mind. 8 public lectures provided on topics like computer-aided governance, game design, behavioral economics, currency design, monetary theory, and token engineering
+[ ] Milestone 5 / Mid January 2022
+Check-in with TE Community Researchers, review research plans (OceanDAO/OceanPearl.io and research group)
+[ ] Milestone 6 / End of February 2022
+Presentation of research results
+[ ] Milestone 7 / Mid March 2022
+Workshop with Ocean DAO team/OceanPearl for follow-up proposals, implementation etc.",Completed,26527,26527,0x3b067Af83F540cB827825a6Ee5480441a4237E77,https://snapshot.org/#/officialoceandao.eth/proposal/QmPcvBvphS5Lhh4yPBBJ3ySqFK1M52CQAEjTgmGYcdvHJo,QmPcvBvphS5Lhh4yPBBJ3ySqFK1M52CQAEjTgmGYcdvHJo,,,5032096,3082960
+Onshore Ocean,Down Voted,10,Build & Integrate,,,Completed,0,0,0x7af50AE9F5c72e917Fa020F406b23F0b2B685437,https://snapshot.org/#/officialoceandao.eth/proposal/QmPPJCiYhyxtp97ZXdNV5KMUqosRfRKJYkjNwEMTCSAaDD,QmPPJCiYhyxtp97ZXdNV5KMUqosRfRKJYkjNwEMTCSAaDD,,,559716,2680186
+Transcription of the Official YouTube Channel Videos,Down Voted,10,Outreach,New Entrants,,,0,0,0x6d1ff3f2bb14621ba4e6e48e7d4e8e075461d265,https://snapshot.org/#/officialoceandao.eth/proposal/QmYyxAUtSW9hB6wQ2GpkYag6D4deJLde828QeYHD9L3GXd,QmYyxAUtSW9hB6wQ2GpkYag6D4deJLde828QeYHD9L3GXd,,,122051,2226178
+Datalatte.ai,Down Voted,10,Unleash Data,,,Completed,0,0,0xFe6adE773ed111BF9932f0e3a6722d52cbFe16e4,https://snapshot.org/#/officialoceandao.eth/proposal/QmVe3CiNviumbSxBtVYCX71Zv916UyLPFAuURUFzt5nmwB,QmVe3CiNviumbSxBtVYCX71Zv916UyLPFAuURUFzt5nmwB,,,1873932,2900387
+MetaverseGameHub,Funded,10,Unleash Data,New Entrants,,Unreported,11937,11937,0x51bD9f5B2562ac622eb50DFd0F0D604558C7819f,https://snapshot.org/#/officialoceandao.eth/proposal/QmPB3kX5xNBaPmqXJLNeJ6aoqDxGA6R1mjhdAHJQsnZqdX,QmPB3kX5xNBaPmqXJLNeJ6aoqDxGA6R1mjhdAHJQsnZqdX,,,6911591,2485877
+RugPullIndex,Funded,10,Build & Integrate,,"We’ve [publicly stated](https://rugpullindex.com/blog#WereNOTAStartup) that we prefer retroactive funding. Hence, please consider this proposal an  **invoice**  and the above-enumerated deliverables as work that has been done and now needs to be paid.
+
+[x] * [x] [We’ve scaled our Ethereum full node to handle 1k requests/s](https://rugpullindex.com/blog#August172021)
+[x] * [x] [We’ve moved all reliance on Aquarius to our Ethereum node](https://rugpullindex.com/blog#September052021)
+[x] * [x] We’ve separated most crawler logic from the main source code and created a private NPM package
+[x] * [x] [We’ve added a new currency pair to our website: OCEAN/USD](https://rugpullindex.com/blog#September172021)
+[x] * [x] [We’ve added two new pages on staking to improve our SEO](https://rugpullindex.com/blog#August262021)
+[x] * [x] [We’ve mitigated the Ethereum Network split on August 27, 2021](https://rugpullindex.com/blog#August272021)
+[x] * [x] [We’re now showing 40 data sets instead of 25](https://rugpullindex.com/blog#September072021)
+[x] * [x] [We’ve on-boarded and paid more than 520 USDC to technical contributors](https://github.com/rugpullindex/documents/blob/master/statements/accounting/cash-basis-accounting-2021-10-01.pdf)
+[x] * [x] We’re in the process of scaling RPI’s workforce through GitHub/Discord and by establishing scalable processes
+Internally:
+[x] * [x] We’ve been busy refining RPI’s vision and mission
+[x] * [x] We’ve been trying to diversify our incomes streams by participating in GR11 and by reaching out to clients
+[x] * [x] We’ve been in touch with German lawyers regarding the incorporation",Completed,21933,21933,0x005241438cAF3eaCb05bB6543151f7AF894C5B58,https://snapshot.org/#/officialoceandao.eth/proposal/QmQfbDTwXb585WL8AZRv4xwT44uEnEnL1PET6VGaeGcgDb,QmQfbDTwXb585WL8AZRv4xwT44uEnEnL1PET6VGaeGcgDb,,,6783202,2154901
+Ocean Protocol Russian Blog,Down Voted,10,Outreach,New Entrants,,,0,0,0xb888572e66c69232ff3c70b78692df58a3bb20f4,https://snapshot.org/#/officialoceandao.eth/proposal/QmaGRckMy4bCQkoZmhCaBRLiLvg977vEJF3urBnfdiPXXr,QmaGRckMy4bCQkoZmhCaBRLiLvg977vEJF3urBnfdiPXXr,,,43019,1961142
+Coral Market,Funded,10,Build & Integrate,,,Unreported,26527,26527,0x057c9a25f1302484Bb34C9CEB6d3BC69Bd319e01,https://snapshot.org/#/officialoceandao.eth/proposal/QmdxSjy9yWJfFkor7MwAwyhrtxU93PMobvBke9Axw17q5Q,QmdxSjy9yWJfFkor7MwAwyhrtxU93PMobvBke9Axw17q5Q,,,6905837,3930686
+Walt.id,Funded,10,Build & Integrate,New Entrants,,Unreported,26527,26527,0xa4c6c2013810661a6750443aEF86cFeAc983e07f,https://snapshot.org/#/officialoceandao.eth/proposal/QmcLPVFX6jiqsNwXBTmkgYKrXTDgfdYznGU2Wj4VWHAocT,QmcLPVFX6jiqsNwXBTmkgYKrXTDgfdYznGU2Wj4VWHAocT,,,6818651,3932664
+Posthuman AI,Down Voted,10,Unleash Data,,,Completed,0,0,0x21e06646433954aabace8e3d93d502e423249299,https://snapshot.org/#/officialoceandao.eth/proposal/QmRNfnA1NnJiEUxK94pruzPqHZQCWHxcRHphcvMCFiUqvQ,QmRNfnA1NnJiEUxK94pruzPqHZQCWHxcRHphcvMCFiUqvQ,,,113833,1856580
+Middle East Community Building and Evangelism,Rejected,10,Outreach,New Entrants,,No Ocean,,,0xbA8F9B84b4b8BCf0F2FdD4daF1110E81B1ABdb47,,,,,,
+Indian Ocean program,Funded,10,Outreach,New Entrants,,Unreported,12600,12600,0x254Ba7254366CA7afE007897358Ee0b45CA933E2,https://snapshot.org/#/officialoceandao.eth/proposal/QmYrunf7hakNVUHwEUMHqHhagUfZRWY5G8ug6bPuHVNsYS,QmYrunf7hakNVUHwEUMHqHhagUfZRWY5G8ug6bPuHVNsYS,,,3561229,170
+Alcor Network,Down Voted,10,Build & Integrate,,,Completed,0,0,0x5b3d1710851c651ff8075a3aDe3eDFd23B557E75,https://snapshot.org/#/officialoceandao.eth/proposal/QmTG6vZLF2JhuBE5uuksHUdiW2pXaTn8449wH8f3ACx3y5,QmTG6vZLF2JhuBE5uuksHUdiW2pXaTn8449wH8f3ACx3y5,,,653504,4437791
+DataX,Funded,10,Build & Integrate,,,Unreported,17242,17242,0xeFB850EA4963Eb6d1A914D4Eb0b114026da51623,https://snapshot.org/#/officialoceandao.eth/proposal/QmQAB1wxiyJdK5oHRyeTUhDdSzS3tWA6dyKHNfxtQj7ZJK,QmQAB1wxiyJdK5oHRyeTUhDdSzS3tWA6dyKHNfxtQj7ZJK,,,5070057,1063216
+HealthLink,Granted,11,Build & Integrate,General,,Unreported,9458,9458,0x8246137C39BB05261972655186A868bdC8a9Eb11,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,1,2,184670,100019
+Ocean Protocol Japan,Granted,11,Outreach,General,,Unreported,5675,5675,0xa911ccf5F6C7BD5fb25188D41A536890c3c8fAE5,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,3,4,134336,452
+VideoWiki,Down Voted,11,Build & Integrate,General,,Completed,0,0,0x42a19cd756651A488f1899157c45Af929bf3695F,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,5,6,251437,331546
+Data Whale,Granted,11,Build & Integrate,General,,Unreported,17498,17498,0xbbd33AFa85539fa65cc08A2e61a001876D2f13FE,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,7,8,550783,0
+Posthuman AI,Down Voted,11,Build & Integrate,General,,Completed,0,0,0x21e06646433954aabace8e3d93d502e423249299,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,9,10,399904,484840
+TokenSPICE,Granted,11,Core Software,General,,Unreported,9458,9458,0x95044Ce3bA6fbc3d40d368351b993fb35253DE4D,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,11,12,227947,0
+DATAPOGY,Granted,11,Unleash Data,New General,,Unreported,2838,2838,0x9012eEE622e771057863998Ca26c8F45b3BDDb1a,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,13,14,91964,1263
+Ocean Protocol Turkey Community,Granted,11,Outreach,New Outreach,,Unreported,2838,2838,0x6305B950c99C64786492C52066cc797E9AA2C115,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,15,16,28462,452
+Datalatte.ai,Granted,11,Build & Integrate,General,,Unreported,9458,9458,0x5c15608eFb12Ee43e4D8367247BED42dD884b5f7,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,17,18,190751,67
+Ocean Pearl,Granted,11,DAO,General,,Unreported,18916,18916,0xe6E3459bA0d70699F54464cc4b5d273810E7EC7B,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,19,20,272283,38
+RugPullIndex,Granted,11,Build & Integrate,General,,Unreported,16117,16117,0x005241438cAF3eaCb05bB6543151f7AF894C5B58,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,21,22,264247,0
+RAZ Finance,Down Voted,11,Build & Integrate,General,,Completed,0,0,0xf8388c804061d08b757BAef8d9bB5f9eF8BA90D1,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,23,24,33450,90425
+WorkPi,Granted,11,Build & Integrate,General,,Unreported,1,1,0x6131C5bBe0FA34Dc0F96E931BcA3E611A5199EEF,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,25,26,42101,0
+Evotegra,Granted,11,Unleash Data,General,,Unreported,2838,2838,0x61B15998893cC746B46C08FEdEE13a0d1b33bBa9,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,27,28,220330,1325
+Taurus Chain Network,Granted,11,Build & Integrate,New General,,Unreported,2838,2838,0xAFd61F5FEB9695739CDb5C180C81A5F044F55819,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,29,30,260293,47106
+nCight,Granted,11,Build & Integrate,New General,,Unreported,2838,2838,0x0cEC1Dbc5Db276dE35808bf717a4491082fDb8d8,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,31,32,282480,46617
+Duggie,Down Voted,11,Build & Integrate,General,,Completed,0,0,0x287B37008D6E0E12Feaa162050803C0B4050AbF9,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,33,34,6630,67408
+Ocean Missions,Granted,11,Outreach,General,,Unreported,6679,6679,0xE2A4DEd1eB0Bfa8027F1A2eD7E09D72843d6D35a,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,35,36,152514,57
+Nigeria Community Building,Granted,11,Outreach,New Outreach,,Unreported,2838,2838,0xe16aeE13e6a7bA2d2f5Bf338F8b063C33Ff8ff87,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,37,38,50612,1788
+Resilient ML,Rejected,11,,,,Completed,,,0x4D4290CBA904aBb4dFbc1568766bCD88e67Be391,,,,,,
+Algovera,Granted,11,Build & Integrate,General,,Unreported,18916,18916,0x81e80B838e04644a93e4F3C701038889d3a1b95e,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,39,40,226518,200038
+DataUnion Foundation,Granted,11,Build & Integrate,General,,Unreported,30455,30455,0xF9ac73f30dBe52c10e3d5950db66357f9d0be44D,https://snapshot.org/#/officialoceandao.eth/proposal/QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,QmZRZNHuoQqpA1KCiNa9oMaxx3i6u2o32eqVxRC8vANfuC,41,42,366926,39
